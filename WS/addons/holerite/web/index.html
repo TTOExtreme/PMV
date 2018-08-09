@@ -1,0 +1,37 @@
+<html>
+
+<head>
+    <script type="text/javascript" src="../../js/libs/jquery.min.js"></script>
+    <script type="text/javascript" src="../../js/mainscripter.js"></script>
+    <link rel="stylesheet" type="text/css" href="../../screens/css/main.css">
+</head>
+
+<body>
+    <table style="width: 95vw;height: 50vh;">
+        <tr>
+            <td>
+
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <center id='pp' style="display: none;">Favor habilite o pop-up</center>
+            </td>
+        </tr>
+    </table>
+</body>
+
+<script>
+    //int gambiarra
+    wait_Load(() => {
+        load(() => {
+            var newWin = window.open("http://179.108.81.10:9081/smarrh/SMARrh03.jsp?data=" + JSON.stringify({ matric: indb.login.matric, cpf: indb.login.cpf }));
+            if (!newWin || newWin.closed || typeof newWin.closed == 'undefined') {
+                document.getElementById('pp').style.display = "";
+            }
+            //document.getElementById('frame').contentWindow.postMessage(JSON.stringify(indb.login), '*')
+        })
+    })
+</script>
+
+</html>
