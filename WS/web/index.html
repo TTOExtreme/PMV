@@ -1,0 +1,66 @@
+<html>
+
+<head>
+    <script type="text/javascript" src="./js/libs/jquery.min.js"></script>
+    <script type="text/javascript" src="./js/mainscripter.js"></script>
+    <link rel="stylesheet" type="text/css" href="./screens/css/login.css">
+</head>
+
+<body class="bg_01" onkeydown="if (event.keyCode == 13) { wait_Load(()=>{login();}) }">
+    <center>
+        <table class="maintable">
+            <tr class="bg_02">
+                <td>
+                    <center><img class="loginimg" src="./img/logo.png"></center>
+                    <center>
+                        <pre><h1>Acesso Restrito</pre>
+                        <pre><h2>Apenas Para Servidores</pre>
+                        <pre><h3>Sistema de Gerenciamento da Prefeitura Municipal de Valinhos</pre>
+                    </center>
+                </td>
+            </tr>
+            <tr style="height: 20px;"></tr>
+            <tr>
+                <td>
+                    <center>
+                        <div class="login_input_holder">
+                            <div class="login_input_user">
+                                <input class="login_" id="user" type="text" placeholder="Usuário">
+                                <pre class="login_info">(Matrícula)</pre>
+                            </div>
+                        </div>
+                    </center>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <center>
+                        <div class="login_input_holder">
+                            <div class="login_input_pass">
+                                <input class="login_" id="pass" onkeydown="if (event.keyCode == 13) { wait_Load(()=>{login();}) }" type="password" placeholder="Senha">
+                                <pre class="login_info">(CPF)</pre>
+                            </div>
+                        </div>
+                    </center>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <center style="margin-top: 10px">
+                        <input id="logbot" type="button" value="Entrar" onclick="wait_Load(()=>{login();})">
+                    </center>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <center><pre style="font-size:9pt;color:#fff; margin-top: 10px; padding: 0; max-height:4px; ">Criado e desenvolvido por Departamento de T.I./S.A.I. PMV - 2018</pre>
+                </td>
+            </tr>
+        </table>
+        </center>
+</body>
+<script>
+    sessionStorage.setItem('indb', '0');
+</script>
+
+</html>

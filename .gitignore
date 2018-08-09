@@ -1,0 +1,5 @@
+
+WS/node_modules/
+
+*.log
+*.sql
