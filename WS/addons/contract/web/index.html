@@ -1,0 +1,94 @@
+<html>
+
+<head>
+    <script type="text/javascript" src="../../js/libs/jquery.min.js"></script>
+    <script type="text/javascript" src="../../js/mainscripter.js"></script>
+    <link rel="stylesheet" type="text/css" href="../../screens/css/main.css">
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+</head>
+
+<body onload="wait_Load(()=>{loadAddonScript('/contract/web/js/index.js'); })">
+    <table class="mf_table">
+        <tr id="mf_table_header" class="mf_table_header">
+            <td>
+                <center>
+                    <table id="table_header" class="table_header">
+                    </table>
+                </center>
+            </td>
+        </tr>
+        <tr id="mf_table_list" class="mf_table_list">
+            <td>
+                <center>
+                    <table id="list_tb" class="list_tb">
+                        <tr>
+                            <td colspan="2">
+                                <table style="width: 100%;">
+                                    <tr>
+                                        <td>
+                                            <center>
+                                                <pre><b>Quantidade por Departamento</pre>
+                                            </center>
+                                        </td>
+                                        <td>
+                                            <center id='deptoname'>
+                                            </center>
+                                        </td>
+                                        <td>
+                                            <center>
+                                                <pre><b>Contratos por Prazo de Vencimento</pre>
+                                            </center>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <canvas id="QTD" style="max-width:40vw; max-height:40vh"></canvas>
+                            </td>
+                            <td>
+                                <canvas id="PRAZ" style="max-width:40vw; max-height:40vh"></canvas>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <br>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <hr style="border-bottom: 1px dashed #000;color: transparent;margin: 5px">
+                            </td>
+                            <td>
+                                <hr style="border-bottom: 1px dashed #000;color: transparent;margin: 5px">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td valign='top'>
+                                <center>
+                                    <pre><b>Contratos Renováveis</pre>
+                                </center>
+                                <table id="RENEW" style="width: 100%;">
+                                </table>
+                            </td>
+                            <td valign='top'>
+                                <center>
+                                    <pre><b>Alertas: Inconsistência no pagamento</pre>
+                                </center>
+                                <table id="INCO" style="width: 100%;">
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </center>
+            </td>
+        </tr>
+        <tr id="mf_table_controls" class="mf_table_controls">
+        </tr>
+        <iframe id="msg_box" class="z-10 001"></iframe>
+        <iframe style="display: none" name="mf" id="mf"></iframe>
+    </table>
+</body>
+
+</html>
