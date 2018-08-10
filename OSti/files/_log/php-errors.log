@@ -1,0 +1,1191 @@
+Test
+2018-02-27 10:01:57 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-02-27 10:25:19 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  inc/config.php:229                                 Html::nullHeader()
+  inc/includes.php:57                                include_once()
+  index.php:62                                       include()
+Test
+2018-02-27 10:25:19 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  inc/config.php:229                                 Html::nullHeader()
+  inc/includes.php:57                                include_once()
+  index.php:62                                       include()
+2018-02-27 10:26:10 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-02-27 10:26:24 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+Test
+Test
+2018-02-27 11:54:02 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-02-27 12:03:18 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-02-27 13:23:31 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-02-27 13:23:41 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-02-27 13:23:50 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-02-27 13:48:33 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-02-27 13:48:44 [7@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-02-27 17:27:47 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-02-28 07:54:24 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-02-28 08:10:21 [6@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-02-28 08:10:34 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-02-28 08:10:45 [6@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+Test
+2018-02-28 09:28:47 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-02-28 13:42:56 [2@lincham]
+  *** PHP Warning(2): Missing argument 1 for Migration::__construct(), called in /var/www/html/OSti/files/_plugins/fields/inc/ticketfinalizar.class.php on line 55 and defined
+  Backtrace :
+  inc/migration.class.php:73                         
+  ...plugins/fields/inc/ticketfinalizar.class.php:55 Migration->__construct()
+  plugins/fields/inc/field.class.php:146             PluginFieldsTicketfinalizar::removeField()
+  inc/commondbtm.class.php:1450                      PluginFieldsField->pre_deleteItem()
+  plugins/fields/front/field.form.php:22             CommonDBTM->delete()
+2018-02-28 13:42:56 [2@lincham]
+  *** PHP Notice(8): Undefined variable: ver
+  Backtrace :
+  inc/migration.class.php:76                         
+  ...plugins/fields/inc/ticketfinalizar.class.php:55 Migration->__construct()
+  plugins/fields/inc/field.class.php:146             PluginFieldsTicketfinalizar::removeField()
+  inc/commondbtm.class.php:1450                      PluginFieldsField->pre_deleteItem()
+  plugins/fields/front/field.form.php:22             CommonDBTM->delete()
+2018-02-28 13:57:12 [2@lincham]
+  From Plugin::getInfo() in /var/www/html/OSti/inc/plugin.class.php line 1373
+  plugin_version_formcreator-2.6.2 method must be defined! 
+2018-02-28 13:58:01 [@lincham]
+  From Plugin::getInfo() in /var/www/html/OSti/inc/plugin.class.php line 1373
+  plugin_version_formcreator-2.6.2 method must be defined! 
+2018-02-28 13:58:14 [2@lincham]
+  From Plugin::getInfo() in /var/www/html/OSti/inc/plugin.class.php line 1373
+  plugin_version_formcreator-2.6.2 method must be defined! 
+2018-02-28 13:58:46 [@lincham]
+  From Plugin::getInfo() in /var/www/html/OSti/inc/plugin.class.php line 1373
+  plugin_version_formcreator-2.6.2 method must be defined! 
+2018-02-28 13:58:57 [2@lincham]
+  From Plugin::getInfo() in /var/www/html/OSti/inc/plugin.class.php line 1373
+  plugin_version_formcreator-2.6.2 method must be defined! 
+2018-02-28 14:01:01 [2@lincham]
+  From Plugin::getInfo() in /var/www/html/OSti/inc/plugin.class.php line 1373
+  plugin_version_formcreator-2.6.2 method must be defined! 
+2018-02-28 16:22:13 [@lincham]
+  From Plugin::getInfo() in /var/www/html/OSti/inc/plugin.class.php line 1373
+  plugin_version_formcreator-2.6.2 method must be defined! 
+2018-02-28 16:22:13 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  inc/html.class.php:851                             Html::nullHeader()
+  inc/session.class.php:1210                         Html::displayErrorAndDie()
+  inc/includes.php:171                               Session::checkCSRF()
+  front/login.php:38                                 include()
+2018-02-28 16:22:54 [@lincham]
+  From Plugin::getInfo() in /var/www/html/OSti/inc/plugin.class.php line 1373
+  plugin_version_formcreator-2.6.2 method must be defined! 
+2018-02-28 16:23:31 [@lincham]
+  From Plugin::getInfo() in /var/www/html/OSti/inc/plugin.class.php line 1373
+  plugin_version_formcreator-2.6.2 method must be defined! 
+2018-02-28 16:24:16 [@lincham]
+  From Plugin::getInfo() in /var/www/html/OSti/inc/plugin.class.php line 1373
+  plugin_version_formcreator-2.6.2 method must be defined! 
+2018-03-01 07:48:26 [2@lincham]
+  From Plugin::getInfo() in /var/www/html/OSti/inc/plugin.class.php line 1373
+  plugin_version_formcreator-2.6.2 method must be defined! 
+2018-03-01 07:51:03 [2@lincham]
+  From Plugin::getInfo() in /var/www/html/OSti/inc/plugin.class.php line 1373
+  plugin_version_formcreator-2.6.2 method must be defined! 
+2018-03-01 07:51:07 [@lincham]
+  From Plugin::getInfo() in /var/www/html/OSti/inc/plugin.class.php line 1373
+  plugin_version_formcreator-2.6.2 method must be defined! 
+2018-03-01 07:51:14 [2@lincham]
+  From Plugin::getInfo() in /var/www/html/OSti/inc/plugin.class.php line 1373
+  plugin_version_formcreator-2.6.2 method must be defined! 
+2018-03-01 11:39:16 [13@lincham]
+  *** PHP Notice(8): Undefined index: title
+  Backtrace :
+  inc/html.class.php:6039                            
+  inc/html.class.php:1470                            Html::displayMainMenu()
+  front/ticket.form.php:233                          Html::header()
+2018-03-01 11:39:16 [13@lincham]
+  *** PHP Notice(8): Undefined index: title
+  Backtrace :
+  inc/html.class.php:6039                            
+  inc/html.class.php:1470                            Html::displayMainMenu()
+  front/ticket.form.php:233                          Html::header()
+2018-03-01 11:39:16 [13@lincham]
+  *** PHP Notice(8): Undefined index: title
+  Backtrace :
+  inc/html.class.php:6039                            
+  inc/html.class.php:1470                            Html::displayMainMenu()
+  front/ticket.form.php:233                          Html::header()
+2018-03-01 11:39:19 [13@lincham]
+  *** PHP Notice(8): Undefined index: title
+  Backtrace :
+  inc/html.class.php:6039                            
+  inc/html.class.php:1470                            Html::displayMainMenu()
+  front/ticket.form.php:233                          Html::header()
+2018-03-01 11:39:19 [13@lincham]
+  *** PHP Notice(8): Undefined index: title
+  Backtrace :
+  inc/html.class.php:6039                            
+  inc/html.class.php:1470                            Html::displayMainMenu()
+  front/ticket.form.php:233                          Html::header()
+2018-03-01 11:39:19 [13@lincham]
+  *** PHP Notice(8): Undefined index: title
+  Backtrace :
+  inc/html.class.php:6039                            
+  inc/html.class.php:1470                            Html::displayMainMenu()
+  front/ticket.form.php:233                          Html::header()
+2018-03-01 11:39:55 [13@lincham]
+  *** PHP Notice(8): Undefined index: title
+  Backtrace :
+  inc/html.class.php:6039                            
+  inc/html.class.php:1470                            Html::displayMainMenu()
+  front/ticket.form.php:233                          Html::header()
+2018-03-01 11:39:55 [13@lincham]
+  *** PHP Notice(8): Undefined index: title
+  Backtrace :
+  inc/html.class.php:6039                            
+  inc/html.class.php:1470                            Html::displayMainMenu()
+  front/ticket.form.php:233                          Html::header()
+2018-03-01 11:39:55 [13@lincham]
+  *** PHP Notice(8): Undefined index: title
+  Backtrace :
+  inc/html.class.php:6039                            
+  inc/html.class.php:1470                            Html::displayMainMenu()
+  front/ticket.form.php:233                          Html::header()
+2018-03-01 11:39:55 [13@lincham]
+  *** PHP Notice(8): Undefined index: title
+  Backtrace :
+  inc/html.class.php:6039                            
+  inc/html.class.php:1470                            Html::displayMainMenu()
+  front/ticket.form.php:233                          Html::header()
+2018-03-01 11:44:32 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  plugins/hidefields/setup.php:16                    
+  inc/plugin.class.php:145                           plugin_init_hidefields()
+  inc/includes.php:118                               Plugin::load()
+  index.php:62                                       include()
+2018-03-01 11:44:32 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  plugins/hidefields/setup.php:16                    
+  inc/plugin.class.php:145                           plugin_init_hidefields()
+  inc/includes.php:118                               Plugin::load()
+  front/cron.php:42                                  include()
+2018-03-01 11:44:33 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  plugins/hidefields/setup.php:16                    
+  inc/plugin.class.php:145                           plugin_init_hidefields()
+  inc/includes.php:118                               Plugin::load()
+  front/login.php:38                                 include()
+2018-03-01 12:51:13 [15@lincham]
+  *** PHP Notice(8): Array to string conversion
+  Backtrace :
+  plugins/fields/inc/field.class.php:590             
+  plugins/fields/inc/field.class.php:456             PluginFieldsField::prepareHtmlFields()
+  plugins/fields/inc/container.class.php:903         PluginFieldsField::showForTabContainer()
+  inc/commonglpi.class.php:482                       PluginFieldsContainer::displayTabContentForItem()
+  ajax/common.tabs.php:96                            CommonGLPI::displayStandardTab()
+2018-03-01 12:52:15 [15@lincham]
+  *** PHP Notice(8): Array to string conversion
+  Backtrace :
+  plugins/fields/inc/field.class.php:593             
+  plugins/fields/inc/field.class.php:456             PluginFieldsField::prepareHtmlFields()
+  plugins/fields/inc/container.class.php:903         PluginFieldsField::showForTabContainer()
+  inc/commonglpi.class.php:482                       PluginFieldsContainer::displayTabContentForItem()
+  ajax/common.tabs.php:96                            CommonGLPI::displayStandardTab()
+2018-03-02 11:14:11 [2@lincham]
+  *** PHP Warning(2): Missing argument 1 for Migration::__construct(), called in /var/www/html/OSti/files/_plugins/fields/inc/ticketchamado.class.php on line 55 and defined
+  Backtrace :
+  inc/migration.class.php:73                         
+  .../_plugins/fields/inc/ticketchamado.class.php:55 Migration->__construct()
+  plugins/fields/inc/field.class.php:147             PluginFieldsTicketchamado::removeField()
+  inc/commondbtm.class.php:1450                      PluginFieldsField->pre_deleteItem()
+  plugins/fields/front/field.form.php:22             CommonDBTM->delete()
+2018-03-02 11:14:11 [2@lincham]
+  *** PHP Notice(8): Undefined variable: ver
+  Backtrace :
+  inc/migration.class.php:76                         
+  .../_plugins/fields/inc/ticketchamado.class.php:55 Migration->__construct()
+  plugins/fields/inc/field.class.php:147             PluginFieldsTicketchamado::removeField()
+  inc/commondbtm.class.php:1450                      PluginFieldsField->pre_deleteItem()
+  plugins/fields/front/field.form.php:22             CommonDBTM->delete()
+2018-03-02 11:15:17 [2@lincham]
+  *** PHP Notice(8): Undefined index: openurl
+  Backtrace :
+  plugins/fields/inc/migration.class.php:59          
+  ..._plugins/fields/inc/ticketimprimir.class.php:46 PluginFieldsMigration::getSQLType()
+  plugins/fields/inc/field.class.php:118             PluginFieldsTicketimprimir::addField()
+  inc/commondbtm.class.php:891                       PluginFieldsField->prepareInputForAdd()
+  plugins/fields/front/field.form.php:14             CommonDBTM->add()
+2018-03-02 12:29:43 [2@lincham]
+  *** PHP Notice(8): Undefined variable: DB
+  Backtrace :
+  plugins/fields/inc/field.class.php:717             
+  plugins/fields/inc/field.class.php:457             PluginFieldsField::prepareHtmlFields()
+  plugins/fields/inc/container.class.php:913         PluginFieldsField::showForTabContainer()
+  inc/commonglpi.class.php:482                       PluginFieldsContainer::displayTabContentForItem()
+  ajax/common.tabs.php:96                            CommonGLPI::displayStandardTab()
+2018-03-05 10:18:44 [2@lincham]
+  *** PHP Notice(8): Undefined variable: value
+  Backtrace :
+  plugins/fields/inc/container.class.php:1137        
+  plugins/fields/inc/container.class.php:930         PluginFieldsContainer::validateValues()
+  plugins/fields/front/container.form.php:31         PluginFieldsContainer->updateFieldsValues()
+2018-03-05 10:23:47 [2@lincham]
+  *** PHP Warning(2): Missing argument 1 for Migration::__construct(), called in /var/www/html/OSti/files/_plugins/fields/inc/ticketfinalizar.class.php on line 55 and defined
+  Backtrace :
+  inc/migration.class.php:73                         
+  ...plugins/fields/inc/ticketfinalizar.class.php:55 Migration->__construct()
+  plugins/fields/inc/field.class.php:147             PluginFieldsTicketfinalizar::removeField()
+  inc/commondbtm.class.php:1450                      PluginFieldsField->pre_deleteItem()
+  plugins/fields/front/field.form.php:22             CommonDBTM->delete()
+2018-03-05 10:23:47 [2@lincham]
+  *** PHP Notice(8): Undefined variable: ver
+  Backtrace :
+  inc/migration.class.php:76                         
+  ...plugins/fields/inc/ticketfinalizar.class.php:55 Migration->__construct()
+  plugins/fields/inc/field.class.php:147             PluginFieldsTicketfinalizar::removeField()
+  inc/commondbtm.class.php:1450                      PluginFieldsField->pre_deleteItem()
+  plugins/fields/front/field.form.php:22             CommonDBTM->delete()
+2018-03-05 10:24:53 [2@lincham]
+  *** PHP Notice(8): Undefined index: openurl
+  Backtrace :
+  plugins/fields/inc/migration.class.php:59          
+  ...plugins/fields/inc/ticketfinalizar.class.php:46 PluginFieldsMigration::getSQLType()
+  plugins/fields/inc/field.class.php:118             PluginFieldsTicketfinalizar::addField()
+  inc/commondbtm.class.php:891                       PluginFieldsField->prepareInputForAdd()
+  plugins/fields/front/field.form.php:14             CommonDBTM->add()
+2018-03-05 13:57:50 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-03-05 13:58:00 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-03-05 15:29:10 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-03-06 12:29:50 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-03-06 12:30:03 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-03-06 13:25:26 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-03-06 13:25:39 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-03-06 13:26:02 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  inc/html.class.php:851                             Html::nullHeader()
+  inc/session.class.php:1210                         Html::displayErrorAndDie()
+  inc/includes.php:171                               Session::checkCSRF()
+  front/login.php:38                                 include()
+2018-03-06 13:26:07 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  inc/html.class.php:851                             Html::nullHeader()
+  inc/session.class.php:1210                         Html::displayErrorAndDie()
+  inc/includes.php:171                               Session::checkCSRF()
+  front/login.php:38                                 include()
+2018-03-12 11:37:28 [2@lincham]
+  *** PHP Warning(2): mysqli::mysqli(): (HY000/2002): No route to host
+  Backtrace :
+  :                                                  
+  inc/dbmysql.class.php:108                          mysqli->mysqli()
+  inc/dbmysql.class.php:81                           DBmysql->connect()
+  plugins/ocsinventoryng/inc/dbocs.class.php:57      DBmysql->__construct()
+  ...ins/ocsinventoryng/inc/ocsdbclient.class.php:52 PluginOcsinventoryngDBocs->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5565 PluginOcsinventoryngOcsDbClient->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5549 PluginOcsinventoryngOcsServer::getDBocs()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:133 PluginOcsinventoryngOcsServer::checkOCSconnection()
+  inc/commonglpi.class.php:206                       PluginOcsinventoryngOcsServer->getTabNameForItem()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:197 CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       PluginOcsinventoryngOcsServer->defineTabs()
+  inc/commonglpi.class.php:706                       CommonGLPI->defineAllTabs()
+  inc/commonglpi.class.php:999                       CommonGLPI->showTabsContent()
+  plugins/ocsinventoryng/front/ocsserver.form.php:73 CommonGLPI->display()
+2018-03-12 11:37:28 [2@lincham]
+  *** PHP Warning(2): mysqli::mysqli(): (HY000/2002): No route to host
+  Backtrace :
+  :                                                  
+  inc/dbmysql.class.php:108                          mysqli->mysqli()
+  inc/dbmysql.class.php:81                           DBmysql->connect()
+  plugins/ocsinventoryng/inc/dbocs.class.php:57      DBmysql->__construct()
+  ...ins/ocsinventoryng/inc/ocsdbclient.class.php:52 PluginOcsinventoryngDBocs->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5565 PluginOcsinventoryngOcsDbClient->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5549 PluginOcsinventoryngOcsServer::getDBocs()
+  ...ins/ocsinventoryng/inc/snmpocslink.class.php:70 PluginOcsinventoryngOcsServer::checkOCSconnection()
+  inc/commonglpi.class.php:206                       PluginOcsinventoryngSnmpOcslink->getTabNameForItem()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:198 CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       PluginOcsinventoryngOcsServer->defineTabs()
+  inc/commonglpi.class.php:706                       CommonGLPI->defineAllTabs()
+  inc/commonglpi.class.php:999                       CommonGLPI->showTabsContent()
+  plugins/ocsinventoryng/front/ocsserver.form.php:73 CommonGLPI->display()
+2018-03-12 11:37:29 [2@lincham]
+  *** PHP Warning(2): mysqli::mysqli(): (HY000/2002): No route to host
+  Backtrace :
+  :                                                  
+  inc/dbmysql.class.php:108                          mysqli->mysqli()
+  inc/dbmysql.class.php:81                           DBmysql->connect()
+  plugins/ocsinventoryng/inc/dbocs.class.php:57      DBmysql->__construct()
+  ...ins/ocsinventoryng/inc/ocsdbclient.class.php:52 PluginOcsinventoryngDBocs->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5565 PluginOcsinventoryngOcsDbClient->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5549 PluginOcsinventoryngOcsServer::getDBocs()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:133 PluginOcsinventoryngOcsServer::checkOCSconnection()
+  inc/commonglpi.class.php:206                       PluginOcsinventoryngOcsServer->getTabNameForItem()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:197 CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       PluginOcsinventoryngOcsServer->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-03-12 11:37:29 [2@lincham]
+  *** PHP Warning(2): mysqli::mysqli(): (HY000/2002): No route to host
+  Backtrace :
+  :                                                  
+  inc/dbmysql.class.php:108                          mysqli->mysqli()
+  inc/dbmysql.class.php:81                           DBmysql->connect()
+  plugins/ocsinventoryng/inc/dbocs.class.php:57      DBmysql->__construct()
+  ...ins/ocsinventoryng/inc/ocsdbclient.class.php:52 PluginOcsinventoryngDBocs->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5565 PluginOcsinventoryngOcsDbClient->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5549 PluginOcsinventoryngOcsServer::getDBocs()
+  ...ins/ocsinventoryng/inc/snmpocslink.class.php:70 PluginOcsinventoryngOcsServer::checkOCSconnection()
+  inc/commonglpi.class.php:206                       PluginOcsinventoryngSnmpOcslink->getTabNameForItem()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:198 CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       PluginOcsinventoryngOcsServer->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-03-12 11:37:31 [2@lincham]
+  *** PHP Warning(2): mysqli::mysqli(): (HY000/2002): No route to host
+  Backtrace :
+  :                                                  
+  inc/dbmysql.class.php:108                          mysqli->mysqli()
+  inc/dbmysql.class.php:81                           DBmysql->connect()
+  plugins/ocsinventoryng/inc/dbocs.class.php:57      DBmysql->__construct()
+  ...ins/ocsinventoryng/inc/ocsdbclient.class.php:52 PluginOcsinventoryngDBocs->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5565 PluginOcsinventoryngOcsDbClient->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5549 PluginOcsinventoryngOcsServer::getDBocs()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:133 PluginOcsinventoryngOcsServer::checkOCSconnection()
+  inc/commonglpi.class.php:206                       PluginOcsinventoryngOcsServer->getTabNameForItem()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:197 CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       PluginOcsinventoryngOcsServer->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-03-12 11:37:31 [2@lincham]
+  *** PHP Warning(2): mysqli::mysqli(): (HY000/2002): No route to host
+  Backtrace :
+  :                                                  
+  inc/dbmysql.class.php:108                          mysqli->mysqli()
+  inc/dbmysql.class.php:81                           DBmysql->connect()
+  plugins/ocsinventoryng/inc/dbocs.class.php:57      DBmysql->__construct()
+  ...ins/ocsinventoryng/inc/ocsdbclient.class.php:52 PluginOcsinventoryngDBocs->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5565 PluginOcsinventoryngOcsDbClient->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5549 PluginOcsinventoryngOcsServer::getDBocs()
+  ...ins/ocsinventoryng/inc/snmpocslink.class.php:70 PluginOcsinventoryngOcsServer::checkOCSconnection()
+  inc/commonglpi.class.php:206                       PluginOcsinventoryngSnmpOcslink->getTabNameForItem()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:198 CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       PluginOcsinventoryngOcsServer->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-03-12 11:37:31 [2@lincham]
+  *** PHP Warning(2): mysqli::mysqli(): (HY000/2002): No route to host
+  Backtrace :
+  :                                                  
+  inc/dbmysql.class.php:108                          mysqli->mysqli()
+  inc/dbmysql.class.php:81                           DBmysql->connect()
+  plugins/ocsinventoryng/inc/dbocs.class.php:57      DBmysql->__construct()
+  ...ins/ocsinventoryng/inc/ocsdbclient.class.php:52 PluginOcsinventoryngDBocs->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5565 PluginOcsinventoryngOcsDbClient->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5549 PluginOcsinventoryngOcsServer::getDBocs()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:1454 PluginOcsinventoryngOcsServer::checkOCSconnection()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:165 PluginOcsinventoryngOcsServer->showDBConnectionStatus()
+  inc/commonglpi.class.php:482                       PluginOcsinventoryngOcsServer::displayTabContentForItem()
+  ajax/common.tabs.php:96                            CommonGLPI::displayStandardTab()
+2018-03-12 11:37:34 [2@lincham]
+  *** PHP Warning(2): mysqli::mysqli(): (HY000/2002): No route to host
+  Backtrace :
+  :                                                  
+  inc/dbmysql.class.php:108                          mysqli->mysqli()
+  inc/dbmysql.class.php:81                           DBmysql->connect()
+  plugins/ocsinventoryng/inc/dbocs.class.php:57      DBmysql->__construct()
+  ...ins/ocsinventoryng/inc/ocsdbclient.class.php:52 PluginOcsinventoryngDBocs->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5565 PluginOcsinventoryngOcsDbClient->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5549 PluginOcsinventoryngOcsServer::getDBocs()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:133 PluginOcsinventoryngOcsServer::checkOCSconnection()
+  inc/commonglpi.class.php:206                       PluginOcsinventoryngOcsServer->getTabNameForItem()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:197 CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       PluginOcsinventoryngOcsServer->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-03-12 11:37:34 [2@lincham]
+  *** PHP Warning(2): mysqli::mysqli(): (HY000/2002): No route to host
+  Backtrace :
+  :                                                  
+  inc/dbmysql.class.php:108                          mysqli->mysqli()
+  inc/dbmysql.class.php:81                           DBmysql->connect()
+  plugins/ocsinventoryng/inc/dbocs.class.php:57      DBmysql->__construct()
+  ...ins/ocsinventoryng/inc/ocsdbclient.class.php:52 PluginOcsinventoryngDBocs->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5565 PluginOcsinventoryngOcsDbClient->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5549 PluginOcsinventoryngOcsServer::getDBocs()
+  ...ins/ocsinventoryng/inc/snmpocslink.class.php:70 PluginOcsinventoryngOcsServer::checkOCSconnection()
+  inc/commonglpi.class.php:206                       PluginOcsinventoryngSnmpOcslink->getTabNameForItem()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:198 CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       PluginOcsinventoryngOcsServer->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-03-12 11:37:42 [2@lincham]
+  *** PHP Warning(2): mysqli::mysqli(): (HY000/2002): No route to host
+  Backtrace :
+  :                                                  
+  inc/dbmysql.class.php:108                          mysqli->mysqli()
+  inc/dbmysql.class.php:81                           DBmysql->connect()
+  plugins/ocsinventoryng/inc/dbocs.class.php:57      DBmysql->__construct()
+  ...ins/ocsinventoryng/inc/ocsdbclient.class.php:52 PluginOcsinventoryngDBocs->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5565 PluginOcsinventoryngOcsDbClient->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5549 PluginOcsinventoryngOcsServer::getDBocs()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:133 PluginOcsinventoryngOcsServer::checkOCSconnection()
+  inc/commonglpi.class.php:206                       PluginOcsinventoryngOcsServer->getTabNameForItem()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:197 CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       PluginOcsinventoryngOcsServer->defineTabs()
+  inc/commonglpi.class.php:706                       CommonGLPI->defineAllTabs()
+  inc/commonglpi.class.php:999                       CommonGLPI->showTabsContent()
+  plugins/ocsinventoryng/front/ocsserver.form.php:73 CommonGLPI->display()
+2018-03-12 11:37:42 [2@lincham]
+  *** PHP Warning(2): mysqli::mysqli(): (HY000/2002): No route to host
+  Backtrace :
+  :                                                  
+  inc/dbmysql.class.php:108                          mysqli->mysqli()
+  inc/dbmysql.class.php:81                           DBmysql->connect()
+  plugins/ocsinventoryng/inc/dbocs.class.php:57      DBmysql->__construct()
+  ...ins/ocsinventoryng/inc/ocsdbclient.class.php:52 PluginOcsinventoryngDBocs->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5565 PluginOcsinventoryngOcsDbClient->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5549 PluginOcsinventoryngOcsServer::getDBocs()
+  ...ins/ocsinventoryng/inc/snmpocslink.class.php:70 PluginOcsinventoryngOcsServer::checkOCSconnection()
+  inc/commonglpi.class.php:206                       PluginOcsinventoryngSnmpOcslink->getTabNameForItem()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:198 CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       PluginOcsinventoryngOcsServer->defineTabs()
+  inc/commonglpi.class.php:706                       CommonGLPI->defineAllTabs()
+  inc/commonglpi.class.php:999                       CommonGLPI->showTabsContent()
+  plugins/ocsinventoryng/front/ocsserver.form.php:73 CommonGLPI->display()
+2018-03-12 11:37:42 [2@lincham]
+  *** PHP Warning(2): mysqli::mysqli(): (HY000/2002): No route to host
+  Backtrace :
+  :                                                  
+  inc/dbmysql.class.php:108                          mysqli->mysqli()
+  inc/dbmysql.class.php:81                           DBmysql->connect()
+  plugins/ocsinventoryng/inc/dbocs.class.php:57      DBmysql->__construct()
+  ...ins/ocsinventoryng/inc/ocsdbclient.class.php:52 PluginOcsinventoryngDBocs->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5565 PluginOcsinventoryngOcsDbClient->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5549 PluginOcsinventoryngOcsServer::getDBocs()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:133 PluginOcsinventoryngOcsServer::checkOCSconnection()
+  inc/commonglpi.class.php:206                       PluginOcsinventoryngOcsServer->getTabNameForItem()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:197 CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       PluginOcsinventoryngOcsServer->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-03-12 11:37:42 [2@lincham]
+  *** PHP Warning(2): mysqli::mysqli(): (HY000/2002): No route to host
+  Backtrace :
+  :                                                  
+  inc/dbmysql.class.php:108                          mysqli->mysqli()
+  inc/dbmysql.class.php:81                           DBmysql->connect()
+  plugins/ocsinventoryng/inc/dbocs.class.php:57      DBmysql->__construct()
+  ...ins/ocsinventoryng/inc/ocsdbclient.class.php:52 PluginOcsinventoryngDBocs->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5565 PluginOcsinventoryngOcsDbClient->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5549 PluginOcsinventoryngOcsServer::getDBocs()
+  ...ins/ocsinventoryng/inc/snmpocslink.class.php:70 PluginOcsinventoryngOcsServer::checkOCSconnection()
+  inc/commonglpi.class.php:206                       PluginOcsinventoryngSnmpOcslink->getTabNameForItem()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:198 CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       PluginOcsinventoryngOcsServer->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-03-12 11:37:45 [2@lincham]
+  *** PHP Warning(2): mysqli::mysqli(): (HY000/2002): No route to host
+  Backtrace :
+  :                                                  
+  inc/dbmysql.class.php:108                          mysqli->mysqli()
+  inc/dbmysql.class.php:81                           DBmysql->connect()
+  plugins/ocsinventoryng/inc/dbocs.class.php:57      DBmysql->__construct()
+  ...ins/ocsinventoryng/inc/ocsdbclient.class.php:52 PluginOcsinventoryngDBocs->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5565 PluginOcsinventoryngOcsDbClient->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5549 PluginOcsinventoryngOcsServer::getDBocs()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:133 PluginOcsinventoryngOcsServer::checkOCSconnection()
+  inc/commonglpi.class.php:206                       PluginOcsinventoryngOcsServer->getTabNameForItem()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:197 CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       PluginOcsinventoryngOcsServer->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-03-12 11:37:45 [2@lincham]
+  *** PHP Warning(2): mysqli::mysqli(): (HY000/2002): No route to host
+  Backtrace :
+  :                                                  
+  inc/dbmysql.class.php:108                          mysqli->mysqli()
+  inc/dbmysql.class.php:81                           DBmysql->connect()
+  plugins/ocsinventoryng/inc/dbocs.class.php:57      DBmysql->__construct()
+  ...ins/ocsinventoryng/inc/ocsdbclient.class.php:52 PluginOcsinventoryngDBocs->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5565 PluginOcsinventoryngOcsDbClient->__construct()
+  ...ins/ocsinventoryng/inc/ocsserver.class.php:5549 PluginOcsinventoryngOcsServer::getDBocs()
+  ...ins/ocsinventoryng/inc/snmpocslink.class.php:70 PluginOcsinventoryngOcsServer::checkOCSconnection()
+  inc/commonglpi.class.php:206                       PluginOcsinventoryngSnmpOcslink->getTabNameForItem()
+  plugins/ocsinventoryng/inc/ocsserver.class.php:198 CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       PluginOcsinventoryngOcsServer->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-03-13 08:22:10 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-03-13 13:22:11 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-03-13 13:27:21 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-03-14 08:10:01 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-03-14 08:13:10 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-03-14 08:13:21 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-03-14 08:13:34 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-03-14 08:30:44 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-03-14 08:30:54 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-03-14 08:31:15 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-03-14 08:33:37 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-03-14 08:33:45 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-03-14 08:33:57 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-03-14 09:14:48 [2@lincham]
+  *** PHP Notice(8): Undefined index: password_update
+  Backtrace :
+  inc/profile.class.php:612                          
+  inc/commonglpi.class.php:472                       Profile->showForm()
+  ajax/common.tabs.php:96                            CommonGLPI::displayStandardTab()
+2018-03-14 09:14:53 [2@lincham]
+  *** PHP Notice(8): Undefined index: show_group_hardware
+  Backtrace :
+  inc/profile.class.php:668                          
+  inc/profile.class.php:128                          Profile->showFormTrackingHelpdesk()
+  inc/commonglpi.class.php:482                       Profile::displayTabContentForItem()
+  ajax/common.tabs.php:96                            CommonGLPI::displayStandardTab()
+2018-03-14 09:15:04 [2@lincham]
+  *** PHP Notice(8): Undefined index: profile
+  Backtrace :
+  inc/profile.class.php:320                          
+  inc/commondbtm.class.php:1150                      Profile->prepareInputForUpdate()
+  front/profile.form.php:66                          CommonDBTM->update()
+2018-03-14 09:28:03 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-03-20 08:14:50 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-03-20 08:31:21 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-07 13:34:18 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-07 13:34:33 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-07 13:34:59 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-07 13:35:21 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-07 13:35:40 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-07 13:37:49 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-07 13:37:58 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-07 13:38:08 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-07 13:38:24 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-07 13:38:47 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-07 13:38:59 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-07 13:40:45 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-07 13:40:58 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-07 13:41:09 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-07 13:41:30 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-07 13:41:38 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-07 13:44:12 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-08 08:11:15 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-08 10:39:24 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-08 10:42:56 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-08 11:11:53 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-08 11:24:27 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-10 07:43:50 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-05-10 07:44:12 [@lincham]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-06-19 00:47:59 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-06-20 16:04:07 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-06-20 16:04:17 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-06-20 16:04:25 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-07-03 15:41:46 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-07-03 15:41:57 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-07-03 15:42:07 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-07-04 11:20:09 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-07-04 11:20:29 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-07-04 11:20:41 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-07-04 11:22:42 [100@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-07-04 16:12:45 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-07-06 16:05:49 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/reminder.class.php:1046                        
+  inc/central.class.php:246                          Reminder::showListForCentral()
+  inc/central.class.php:84                           Central::showMyView()
+  inc/commonglpi.class.php:482                       Central::displayTabContentForItem()
+  ajax/common.tabs.php:96                            CommonGLPI::displayStandardTab()
+2018-07-06 16:05:49 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/reminder.class.php:72                          
+  inc/reminder.class.php:1095                        Reminder::canCreate()
+  inc/central.class.php:246                          Reminder::showListForCentral()
+  inc/central.class.php:84                           Central::showMyView()
+  inc/commonglpi.class.php:482                       Central::displayTabContentForItem()
+  ajax/common.tabs.php:96                            CommonGLPI::displayStandardTab()
+2018-07-06 16:08:52 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: HTTP_REFERER
+  Backtrace :
+  inc/commonglpi.class.php:943                       
+  inc/commonglpi.class.php:235                       CommonGLPI::isLayoutExcludedPage()
+  inc/ticket.class.php:891                           CommonGLPI->addDefaultFormTab()
+  inc/commonglpi.class.php:161                       Ticket->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-07-06 16:08:52 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/item_ticket.class.php:584                      
+  inc/commonglpi.class.php:206                       Item_Ticket->getTabNameForItem()
+  inc/ticket.class.php:901                           CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       Ticket->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-07-06 16:12:03 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: HTTP_REFERER
+  Backtrace :
+  inc/commonglpi.class.php:943                       
+  inc/commonglpi.class.php:235                       CommonGLPI::isLayoutExcludedPage()
+  inc/ticket.class.php:891                           CommonGLPI->addDefaultFormTab()
+  inc/commonglpi.class.php:161                       Ticket->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-07-06 16:12:03 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/item_ticket.class.php:584                      
+  inc/commonglpi.class.php:206                       Item_Ticket->getTabNameForItem()
+  inc/ticket.class.php:901                           CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       Ticket->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-07-06 16:13:01 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: HTTP_REFERER
+  Backtrace :
+  inc/commonglpi.class.php:943                       
+  inc/commonglpi.class.php:235                       CommonGLPI::isLayoutExcludedPage()
+  inc/ticket.class.php:891                           CommonGLPI->addDefaultFormTab()
+  inc/commonglpi.class.php:161                       Ticket->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-07-06 16:13:01 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/item_ticket.class.php:584                      
+  inc/commonglpi.class.php:206                       Item_Ticket->getTabNameForItem()
+  inc/ticket.class.php:901                           CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       Ticket->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-07-06 16:13:10 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: HTTP_REFERER
+  Backtrace :
+  inc/commonglpi.class.php:943                       
+  inc/commonglpi.class.php:235                       CommonGLPI::isLayoutExcludedPage()
+  inc/ticket.class.php:891                           CommonGLPI->addDefaultFormTab()
+  inc/commonglpi.class.php:161                       Ticket->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-07-06 16:13:10 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/item_ticket.class.php:584                      
+  inc/commonglpi.class.php:206                       Item_Ticket->getTabNameForItem()
+  inc/ticket.class.php:901                           CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       Ticket->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-07-06 16:13:47 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: HTTP_REFERER
+  Backtrace :
+  inc/commonglpi.class.php:943                       
+  inc/commonglpi.class.php:235                       CommonGLPI::isLayoutExcludedPage()
+  inc/ticket.class.php:891                           CommonGLPI->addDefaultFormTab()
+  inc/commonglpi.class.php:161                       Ticket->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-07-06 16:13:47 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/item_ticket.class.php:584                      
+  inc/commonglpi.class.php:206                       Item_Ticket->getTabNameForItem()
+  inc/ticket.class.php:901                           CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       Ticket->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-07-06 16:13:49 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: HTTP_REFERER
+  Backtrace :
+  inc/commonglpi.class.php:943                       
+  inc/commonglpi.class.php:235                       CommonGLPI::isLayoutExcludedPage()
+  inc/ticket.class.php:891                           CommonGLPI->addDefaultFormTab()
+  inc/commonglpi.class.php:161                       Ticket->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-07-06 16:13:49 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/item_ticket.class.php:584                      
+  inc/commonglpi.class.php:206                       Item_Ticket->getTabNameForItem()
+  inc/ticket.class.php:901                           CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       Ticket->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-07-06 16:15:58 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: HTTP_REFERER
+  Backtrace :
+  inc/commonglpi.class.php:943                       
+  inc/commonglpi.class.php:235                       CommonGLPI::isLayoutExcludedPage()
+  inc/ticket.class.php:891                           CommonGLPI->addDefaultFormTab()
+  inc/commonglpi.class.php:161                       Ticket->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-07-06 16:15:58 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/item_ticket.class.php:584                      
+  inc/commonglpi.class.php:206                       Item_Ticket->getTabNameForItem()
+  inc/ticket.class.php:901                           CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       Ticket->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-07-06 16:18:08 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: HTTP_REFERER
+  Backtrace :
+  inc/commonglpi.class.php:943                       
+  inc/commonglpi.class.php:235                       CommonGLPI::isLayoutExcludedPage()
+  inc/commonglpi.class.php:159                       CommonGLPI->addDefaultFormTab()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-07-06 16:18:14 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/reminder.class.php:1046                        
+  inc/central.class.php:246                          Reminder::showListForCentral()
+  inc/central.class.php:84                           Central::showMyView()
+  inc/commonglpi.class.php:482                       Central::displayTabContentForItem()
+  ajax/common.tabs.php:96                            CommonGLPI::displayStandardTab()
+2018-07-06 16:18:14 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/reminder.class.php:72                          
+  inc/reminder.class.php:1095                        Reminder::canCreate()
+  inc/central.class.php:246                          Reminder::showListForCentral()
+  inc/central.class.php:84                           Central::showMyView()
+  inc/commonglpi.class.php:482                       Central::displayTabContentForItem()
+  ajax/common.tabs.php:96                            CommonGLPI::displayStandardTab()
+2018-07-06 16:18:58 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: HTTP_REFERER
+  Backtrace :
+  inc/commonglpi.class.php:943                       
+  inc/commonglpi.class.php:235                       CommonGLPI::isLayoutExcludedPage()
+  inc/ticket.class.php:891                           CommonGLPI->addDefaultFormTab()
+  inc/commonglpi.class.php:161                       Ticket->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-07-06 16:18:58 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/item_ticket.class.php:584                      
+  inc/commonglpi.class.php:206                       Item_Ticket->getTabNameForItem()
+  inc/ticket.class.php:901                           CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       Ticket->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-07-06 16:19:07 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: HTTP_REFERER
+  Backtrace :
+  inc/commonglpi.class.php:943                       
+  inc/commonglpi.class.php:235                       CommonGLPI::isLayoutExcludedPage()
+  inc/ticket.class.php:891                           CommonGLPI->addDefaultFormTab()
+  inc/commonglpi.class.php:161                       Ticket->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-07-06 16:19:07 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/item_ticket.class.php:584                      
+  inc/commonglpi.class.php:206                       Item_Ticket->getTabNameForItem()
+  inc/ticket.class.php:901                           CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       Ticket->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-07-06 16:20:02 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: HTTP_REFERER
+  Backtrace :
+  inc/commonglpi.class.php:943                       
+  inc/commonglpi.class.php:235                       CommonGLPI::isLayoutExcludedPage()
+  inc/ticket.class.php:891                           CommonGLPI->addDefaultFormTab()
+  inc/commonglpi.class.php:161                       Ticket->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-07-06 16:20:03 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/item_ticket.class.php:584                      
+  inc/commonglpi.class.php:206                       Item_Ticket->getTabNameForItem()
+  inc/ticket.class.php:901                           CommonGLPI->addStandardTab()
+  inc/commonglpi.class.php:161                       Ticket->defineTabs()
+  ajax/updatecurrenttab.php:50                       CommonGLPI->defineAllTabs()
+2018-07-10 16:18:57 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-07-10 16:19:06 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-08-08 19:25:31 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-08-08 19:25:38 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()

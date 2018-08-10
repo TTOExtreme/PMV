@@ -1,0 +1,794 @@
+2018-02-27 10:01:57 [@lincham]
+[login] 3: Login falhou para  no IP 192.168.0.151
+2018-02-27 10:02:07 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.151
+2018-02-27 10:26:10 [@lincham]
+[login] 3: Login falhou para glpi no IP 192.168.0.130
+2018-02-27 10:26:24 [@lincham]
+[login] 3: Login falhou para paulo no IP 192.168.0.130
+2018-02-27 10:26:37 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.130
+2018-02-27 10:28:09 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.130
+2018-02-27 10:38:22 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.130
+2018-02-27 11:20:05 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.130
+2018-02-27 11:30:00 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.130
+2018-02-27 11:32:52 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.130
+2018-02-27 11:37:16 [@lincham]
+[login] 3: glpi fez login no IP 192.168.10.15
+2018-02-27 11:39:42 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.130
+2018-02-27 11:54:02 [@lincham]
+[login] 3: Login falhou para paulo no IP 192.168.10.15
+2018-02-27 11:54:18 [@lincham]
+[login] 3: glpi fez login no IP 192.168.10.15
+2018-02-27 11:55:56 [@lincham]
+[login] 3: glpi fez login no IP 192.168.10.15
+2018-02-27 11:58:32 [@lincham]
+[login] 3: glpi fez login no IP 192.168.10.15
+2018-02-27 12:03:18 [@lincham]
+[login] 3: Login falhou para glpi no IP 192.168.0.151
+2018-02-27 12:03:26 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.151
+2018-02-27 12:06:16 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-27 12:10:51 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.151
+2018-02-27 12:12:02 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-27 12:18:39 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-27 12:18:56 [@lincham]
+[login] 3: glpi fez login no IP 192.168.10.15
+2018-02-27 12:20:25 [@lincham]
+[login] 3: usuario fez login no IP 192.168.10.15
+2018-02-27 12:31:05 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-27 12:31:23 [@lincham]
+[login] 3: usuario fez login no IP 192.168.0.130
+2018-02-27 12:36:15 [@lincham]
+[login] 3: usuario fez login no IP 192.168.0.134
+2018-02-27 12:39:23 [6@lincham]
+[login] 3: Login falhou para  no IP 192.168.0.151
+2018-02-27 12:39:31 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-27 12:50:27 [@lincham]
+[login] 3: gabriel fez login no IP 192.168.0.130
+2018-02-27 12:51:13 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.151
+2018-02-27 13:06:18 [@lincham]
+[login] 3: 1 fez login no IP 192.168.0.130
+2018-02-27 13:23:31 [@lincham]
+[login] 3: Login falhou para lcamarotto no IP 192.168.0.130
+2018-02-27 13:23:41 [@lincham]
+[login] 3: Login falhou para lcamarotto no IP 192.168.0.130
+2018-02-27 13:23:50 [@lincham]
+[login] 3: Login falhou para lcamarotto no IP 192.168.0.130
+2018-02-27 13:23:59 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.130
+2018-02-27 13:31:04 [@lincham]
+[login] 3: 1 fez login no IP 192.168.0.130
+2018-02-27 13:36:48 [@lincham]
+[login] 3: gabriel fez login no IP 192.168.0.130
+2018-02-27 13:48:33 [@lincham]
+[login] 3: Login falhou para gabriel no IP 192.168.0.130
+2018-02-27 13:48:44 [@lincham]
+[login] 3: gabriel fez login no IP 192.168.0.130
+2018-02-27 13:49:13 [@lincham]
+[login] 3: gabriel fez login no IP 192.168.0.130
+2018-02-27 15:31:43 [@lincham]
+[login] 3: usuario fez login no IP 192.168.10.15
+2018-02-27 15:33:19 [@lincham]
+[login] 3: glpi fez login no IP 192.168.10.15
+2018-02-27 17:15:52 [@lincham]
+[login] 3: usuario fez login no IP 192.168.10.15
+2018-02-27 17:18:20 [@lincham]
+[login] 3: glpi fez login no IP 192.168.10.15
+2018-02-27 17:25:14 [@lincham]
+[login] 3: wiliam fez login no IP 192.168.10.15
+2018-02-27 17:25:26 [@lincham]
+[login] 3: wil.machine fez login no IP 192.168.10.15
+2018-02-27 17:26:24 [@lincham]
+[login] 3: glpi fez login no IP 192.168.10.15
+2018-02-27 17:27:47 [@lincham]
+[login] 3: Login falhou para tecnico no IP 192.168.10.15
+2018-02-27 17:27:54 [@lincham]
+[login] 3: tecnico fez login no IP 192.168.10.15
+2018-02-27 17:36:25 [@lincham]
+[login] 3: wiliam fez login no IP 192.168.0.166
+2018-02-27 17:37:30 [@lincham]
+[login] 3: tecnico fez login no IP 192.168.0.166
+2018-02-27 17:40:40 [@lincham]
+[login] 3: usuario fez login no IP 192.168.0.166
+2018-02-27 17:42:32 [@lincham]
+[login] 3: wiliam fez login no IP 192.168.0.166
+2018-02-27 17:43:19 [@lincham]
+[login] 3: tecnico fez login no IP 192.168.0.166
+2018-02-27 17:44:14 [@lincham]
+[login] 3: usuario fez login no IP 192.168.0.166
+2018-02-27 17:45:31 [@lincham]
+[login] 3: wiliam fez login no IP 192.168.0.166
+2018-02-27 18:07:46 [@lincham]
+[login] 3: usuario fez login no IP 192.168.0.60
+2018-02-27 18:11:41 [@lincham]
+[login] 3: wiliam fez login no IP 192.168.0.60
+2018-02-27 18:12:50 [@lincham]
+[login] 3: tecnico fez login no IP 192.168.0.60
+2018-02-27 18:38:42 [@lincham]
+[login] 3: wil.machine fez login no IP 192.168.10.82
+2018-02-27 18:40:49 [@lincham]
+[login] 3: wiliam fez login no IP 192.168.10.82
+2018-02-27 18:42:01 [@lincham]
+[login] 3: tecnico fez login no IP 192.168.10.82
+2018-02-28 07:50:59 [@lincham]
+[login] 3: Juri fez login no IP 192.168.10.88
+2018-02-28 07:51:44 [@lincham]
+[login] 3: sai fez login no IP 192.168.10.88
+2018-02-28 07:54:24 [@lincham]
+[login] 3: Login falhou para lcamarotto no IP 192.168.10.88
+2018-02-28 07:54:42 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.10.88
+2018-02-28 07:59:06 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.10.88
+2018-02-28 08:10:21 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 08:10:34 [@lincham]
+[login] 3: Login falhou para lcamarotto no IP 192.168.0.151
+2018-02-28 08:10:45 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 08:11:25 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 08:11:55 [@lincham]
+[login] 3: sai fez login no IP 192.168.0.151
+2018-02-28 08:19:37 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 08:22:56 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 08:52:59 [@lincham]
+[login] 3: usuario fez login no IP 192.168.0.55
+2018-02-28 09:12:18 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 09:13:05 [@lincham]
+[login] 3: sai fez login no IP 192.168.0.151
+2018-02-28 09:25:08 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 09:28:47 [@lincham]
+[login] 3: Login falhou para juridico no IP 192.168.0.151
+2018-02-28 09:29:03 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.151
+2018-02-28 09:30:15 [@lincham]
+[login] 3: sai fez login no IP 192.168.0.130
+2018-02-28 09:34:32 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.151
+2018-02-28 09:35:27 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.151
+2018-02-28 09:36:42 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.151
+2018-02-28 09:46:29 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.151
+2018-02-28 09:50:21 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.151
+2018-02-28 09:53:20 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.151
+2018-02-28 09:55:26 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.151
+2018-02-28 09:56:40 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 10:06:58 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 10:07:49 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 10:12:23 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 10:13:44 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 10:14:31 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 10:17:02 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 10:18:15 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 10:18:53 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 10:20:06 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 10:28:57 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 10:30:50 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.151
+2018-02-28 10:31:07 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 10:32:25 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 10:45:35 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 10:46:09 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 10:46:56 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 10:48:19 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 10:50:29 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 10:52:07 [@lincham]
+[login] 3: tecnico fez login no IP 192.168.0.130
+2018-02-28 12:25:16 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 12:32:28 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 12:35:30 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 12:36:56 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 12:45:23 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 12:46:03 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 12:47:31 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 13:18:18 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 13:19:53 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 13:27:36 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-02-28 13:31:07 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.151
+2018-02-28 13:34:51 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.151
+2018-02-28 13:35:44 [@lincham]
+[login] 3: usuario fez login no IP 192.168.0.151
+2018-02-28 13:58:08 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.151
+2018-02-28 13:58:49 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.151
+2018-02-28 16:22:48 [@lincham]
+[login] 3: tecnico fez login no IP 192.168.10.15
+2018-02-28 16:23:01 [@lincham]
+[login] 3: usuario fez login no IP 192.168.10.15
+2018-02-28 16:23:37 [@lincham]
+[login] 3: glpi fez login no IP 192.168.10.15
+2018-02-28 16:24:20 [@lincham]
+[login] 3: tecnico fez login no IP 192.168.10.15
+2018-03-01 07:51:09 [@lincham]
+[login] 3: glpi fez login no IP 192.168.10.88
+2018-03-01 09:16:48 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.151
+2018-03-01 09:34:57 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-01 10:09:47 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-01 10:14:28 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-01 10:27:14 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-01 10:28:52 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-01 10:31:37 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-01 10:36:36 [@lincham]
+[login] 3: sai fez login no IP 192.168.0.130
+2018-03-01 10:39:03 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.130
+2018-03-01 10:40:20 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.130
+2018-03-01 10:44:42 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.130
+2018-03-01 10:45:13 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.130
+2018-03-01 10:58:06 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.151
+2018-03-01 10:58:47 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.130
+2018-03-01 11:02:15 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.130
+2018-03-01 11:03:06 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.130
+2018-03-01 11:09:02 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.130
+2018-03-01 11:12:59 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.130
+2018-03-01 11:14:01 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.130
+2018-03-01 11:23:44 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.130
+2018-03-01 11:29:11 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.130
+2018-03-01 11:36:59 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.130
+2018-03-01 11:38:26 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.130
+2018-03-01 11:39:16 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.130
+2018-03-01 11:39:55 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.130
+2018-03-01 11:40:35 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.130
+2018-03-01 11:44:34 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.130
+2018-03-01 13:33:11 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.130
+2018-03-01 13:35:33 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-01 13:36:19 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-02 07:51:23 [@lincham]
+[login] 3: juri fez login no IP 192.168.10.88
+2018-03-02 07:55:25 [@lincham]
+[login] 3: juri fez login no IP 192.168.10.88
+2018-03-02 11:37:41 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.130
+2018-03-02 11:38:12 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.130
+2018-03-02 11:42:06 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.151
+2018-03-02 11:42:31 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.151
+2018-03-05 07:51:31 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.151
+2018-03-05 08:28:32 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.151
+2018-03-05 08:38:11 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-05 08:50:04 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.151
+2018-03-05 08:51:04 [@lincham]
+[login] 3: usuario fez login no IP 192.168.0.151
+2018-03-05 08:51:18 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-05 09:56:45 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-05 10:03:47 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.151
+2018-03-05 12:55:06 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.130
+2018-03-05 13:57:50 [@lincham]
+[login] 3: Login falhou para juri no IP 192.168.0.151
+2018-03-05 13:58:00 [@lincham]
+[login] 3: Login falhou para juri no IP 192.168.0.151
+2018-03-05 13:58:11 [@lincham]
+[login] 3: juri fez login no IP 192.168.0.151
+2018-03-05 14:00:45 [@lincham]
+[login] 3: efiscal fez login no IP 192.168.0.151
+2018-03-05 15:29:10 [@lincham]
+[login] 3: Login falhou para ti no IP 192.168.0.123
+2018-03-05 15:29:17 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.123
+2018-03-06 07:53:52 [@lincham]
+[login] 3: efiscal fez login no IP 192.168.0.151
+2018-03-06 08:35:39 [@lincham]
+[login] 3: tiger fez login no IP 192.168.0.151
+2018-03-06 08:38:48 [@lincham]
+[login] 3: tiger fez login no IP 192.168.0.151
+2018-03-06 08:43:10 [@lincham]
+[login] 3: tiger fez login no IP 192.168.0.151
+2018-03-06 08:43:31 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.151
+2018-03-06 08:43:36 [@lincham]
+[login] 3: tiger fez login no IP 192.168.0.151
+2018-03-06 08:53:17 [@lincham]
+[login] 3: tiger fez login no IP 192.168.0.151
+2018-03-06 11:43:45 [@lincham]
+[login] 3: tiger fez login no IP 192.168.0.151
+2018-03-06 11:44:59 [@lincham]
+[login] 3: tiger fez login no IP 192.168.0.151
+2018-03-06 12:29:50 [@lincham]
+[login] 3: Login falhou para sai no IP 192.168.0.123
+2018-03-06 12:30:03 [@lincham]
+[login] 3: Login falhou para sai no IP 192.168.0.123
+2018-03-06 12:30:11 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.123
+2018-03-06 12:30:37 [@lincham]
+[login] 3: saji fez login no IP 192.168.0.123
+2018-03-06 13:25:26 [@lincham]
+[login] 3: Login falhou para glpi no IP 192.168.0.151
+2018-03-06 13:25:39 [@lincham]
+[login] 3: Login falhou para glpi no IP 192.168.0.151
+2018-03-06 13:26:32 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-06 13:27:36 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.151
+2018-03-06 13:59:58 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.151
+2018-03-06 14:14:10 [@lincham]
+[login] 3: tiger fez login no IP 192.168.0.151
+2018-03-06 20:57:55 [@lincham]
+[login] 3: glpi fez login no IP 192.168.7.13
+2018-03-07 07:48:42 [@lincham]
+[login] 3: exfiscal fez login no IP 192.168.0.151
+2018-03-07 11:59:29 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.185
+2018-03-07 18:28:32 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.173
+2018-03-07 18:29:22 [@lincham]
+[login] 3: cfelix fez login no IP 192.168.0.173
+2018-03-08 07:49:24 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.151
+2018-03-08 07:53:04 [@lincham]
+[login] 3: glpi fez login no IP 192.168.0.151
+2018-03-12 13:50:28 [@lincham]
+[login] 3: osti fez login no IP 192.168.0.151
+2018-03-13 08:02:57 [@lincham]
+[login] 3: saiger fez login no IP 192.168.0.151
+2018-03-13 08:22:10 [@lincham]
+[login] 3: Login falhou para  no IP 192.168.0.3
+2018-03-13 08:22:23 [@lincham]
+[login] 3: osti fez login no IP 192.168.0.3
+2018-03-13 08:28:25 [@lincham]
+[login] 3: pcmarostica fez login no IP 192.168.0.3
+2018-03-13 08:28:40 [@lincham]
+[login] 3: osti fez login no IP 192.168.0.3
+2018-03-13 08:34:18 [@lincham]
+[login] 3: osti fez login no IP 189.40.75.169
+2018-03-13 13:22:11 [@lincham]
+[login] 3: Login falhou para osti no IP 192.168.0.3
+2018-03-13 13:22:23 [@lincham]
+[login] 3: osti fez login no IP 192.168.0.3
+2018-03-13 13:27:21 [@lincham]
+[login] 3: Login falhou para tech no IP 192.168.0.151
+2018-03-14 08:10:01 [@lincham]
+[login] 3: Login falhou para osti no IP 192.168.0.185
+2018-03-14 08:10:20 [@lincham]
+[login] 3: osti fez login no IP 192.168.0.185
+2018-03-14 08:13:10 [@lincham]
+[login] 3: Login falhou para accouto no IP 192.168.0.185
+2018-03-14 08:13:21 [@lincham]
+[login] 3: Login falhou para accouto no IP 192.168.0.185
+2018-03-14 08:13:34 [@lincham]
+[login] 3: Login falhou para pcmaldonado no IP 192.168.0.185
+2018-03-14 08:13:45 [@lincham]
+[login] 3: pmaldonado fez login no IP 192.168.0.185
+2018-03-14 08:15:43 [@lincham]
+[login] 3: pcmarostica fez login no IP 192.168.0.185
+2018-03-14 08:20:15 [@lincham]
+[login] 3: osti fez login no IP 192.168.0.185
+2018-03-14 08:21:57 [@lincham]
+[login] 3: pmaldonado fez login no IP 192.168.0.185
+2018-03-14 08:29:08 [@lincham]
+[login] 3: osti fez login no IP 192.168.0.3
+2018-03-14 08:29:32 [@lincham]
+[login] 3: osti fez login no IP 192.168.0.151
+2018-03-14 08:30:44 [@lincham]
+[login] 3: Login falhou para eviola no IP 192.168.0.3
+2018-03-14 08:30:54 [@lincham]
+[login] 3: Login falhou para eviola no IP 192.168.0.3
+2018-03-14 08:31:15 [@lincham]
+[login] 3: Login falhou para eviola no IP 192.168.0.3
+2018-03-14 08:31:31 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 08:33:37 [@lincham]
+[login] 3: Login falhou para eviola no IP 192.168.0.3
+2018-03-14 08:33:45 [@lincham]
+[login] 3: Login falhou para eviola no IP 192.168.0.3
+2018-03-14 08:33:57 [@lincham]
+[login] 3: Login falhou para eviola no IP 192.168.0.3
+2018-03-14 08:34:05 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 08:36:27 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 08:39:24 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 08:39:52 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 08:41:36 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 08:47:19 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 08:48:18 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-14 08:51:38 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 08:54:16 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 08:59:38 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 09:02:06 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 09:04:33 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 09:05:18 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 09:06:34 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 09:07:56 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 09:10:10 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 09:10:52 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-14 09:11:19 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-14 09:14:14 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-14 09:14:27 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-14 09:15:11 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-14 09:18:07 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-14 09:19:09 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-14 09:19:41 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-14 09:20:18 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-14 09:20:30 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 09:21:04 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 09:21:28 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 09:23:04 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 09:23:35 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 09:23:49 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 09:25:10 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-03-14 09:27:44 [@lincham]
+[login] 3: eviola fez login no IP 192.168.0.3
+2018-03-14 09:28:03 [@lincham]
+[login] 3: Login falhou para aalves no IP 192.168.0.3
+2018-03-14 09:28:12 [@lincham]
+[login] 3: aalves fez login no IP 192.168.0.3
+2018-03-14 09:28:51 [@lincham]
+[login] 3: aalves fez login no IP 192.168.0.3
+2018-03-15 09:15:11 [@lincham]
+[login] 3: osti fez login no IP 192.168.0.151
+2018-03-15 09:15:55 [@lincham]
+[login] 3: aalves fez login no IP 192.168.0.3
+2018-03-15 09:18:40 [@lincham]
+[login] 3: osti fez login no IP 192.168.0.3
+2018-03-20 08:09:04 [@lincham]
+[login] 3: pmaldonado fez login no IP 192.168.0.185
+2018-03-20 08:10:13 [@lincham]
+[login] 3: osti fez login no IP 192.168.10.88
+2018-03-20 08:14:50 [@lincham]
+[login] 3: Login falhou para osti no IP 192.168.0.185
+2018-03-20 08:15:06 [@lincham]
+[login] 3: osti fez login no IP 192.168.0.185
+2018-03-20 08:31:21 [@lincham]
+[login] 3: Login falhou para paulo no IP 192.168.0.185
+2018-03-20 08:31:29 [@lincham]
+[login] 3: pcmarostica fez login no IP 192.168.0.185
+2018-03-20 10:21:46 [@lincham]
+[login] 3: tiger fez login no IP 192.168.0.3
+2018-03-20 10:25:30 [@lincham]
+[login] 3: osti fez login no IP 192.168.10.88
+2018-03-20 10:27:14 [@lincham]
+[login] 3: tiger fez login no IP 192.168.0.3
+2018-03-20 10:29:22 [@lincham]
+[login] 3: tiger fez login no IP 192.168.0.3
+2018-03-20 10:34:13 [@lincham]
+[login] 3: tiger fez login no IP 192.168.0.3
+2018-03-20 10:37:06 [27@lincham]
+[login] 3: tiger fez login no IP 192.168.0.3
+2018-03-20 10:37:45 [@lincham]
+[login] 3: tiger fez login no IP 192.168.0.185
+2018-04-03 12:45:58 [@lincham]
+[login] 3: osti fez login no IP 192.168.0.151
+2018-04-04 19:52:25 [@lincham]
+[login] 3: osti fez login no IP 200.196.224.51
+2018-04-25 10:32:53 [@lincham]
+[login] 3: osti fez login no IP 192.168.0.151
+2018-05-07 13:33:10 [@lincham]
+[login] 3: osti fez login no IP 192.168.0.151
+2018-05-07 13:34:18 [@lincham]
+[login] 3: Login falhou para cfelix no IP 192.168.0.151
+2018-05-07 13:34:33 [@lincham]
+[login] 3: Login falhou para cfelix no IP 192.168.0.151
+2018-05-07 13:34:59 [@lincham]
+[login] 3: Login falhou para cfelix no IP 192.168.0.151
+2018-05-07 13:35:21 [@lincham]
+[login] 3: Login falhou para cfelix no IP 192.168.0.151
+2018-05-07 13:35:40 [@lincham]
+[login] 3: Login falhou para cfelix no IP 192.168.0.151
+2018-05-07 13:37:49 [@lincham]
+[login] 3: Login falhou para eviola no IP 192.168.0.151
+2018-05-07 13:37:58 [@lincham]
+[login] 3: Login falhou para eviola no IP 192.168.0.151
+2018-05-07 13:38:08 [@lincham]
+[login] 3: Login falhou para eviola no IP 192.168.0.151
+2018-05-07 13:38:24 [@lincham]
+[login] 3: Login falhou para eviola no IP 192.168.0.151
+2018-05-07 13:38:47 [@lincham]
+[login] 3: Login falhou para eviola no IP 192.168.0.151
+2018-05-07 13:38:59 [@lincham]
+[login] 3: Login falhou para eviola no IP 192.168.0.151
+2018-05-07 13:40:45 [@lincham]
+[login] 3: Login falhou para elima no IP 192.168.0.151
+2018-05-07 13:40:58 [@lincham]
+[login] 3: Login falhou para cveiga no IP 192.168.0.151
+2018-05-07 13:41:09 [@lincham]
+[login] 3: Login falhou para cveiga no IP 192.168.0.151
+2018-05-07 13:41:30 [@lincham]
+[login] 3: Login falhou para elima no IP 192.168.0.151
+2018-05-07 13:41:38 [@lincham]
+[login] 3: Login falhou para elima no IP 192.168.0.151
+2018-05-07 13:44:12 [@lincham]
+[login] 3: Login falhou para elima no IP 192.168.0.151
+2018-05-07 13:51:49 [@lincham]
+[login] 3: elima fez login no IP 192.168.0.151
+2018-05-07 13:59:15 [@lincham]
+[login] 3: elima fez login no IP 192.168.0.151
+2018-05-08 08:09:05 [@lincham]
+[login] 3: elima fez login no IP 192.168.0.151
+2018-05-08 08:11:15 [@lincham]
+[login] 3: Login falhou para elima no IP 192.168.0.151
+2018-05-08 08:11:25 [@lincham]
+[login] 3: elima fez login no IP 192.168.0.151
+2018-05-08 09:31:48 [@lincham]
+[login] 3: elima fez login no IP 192.168.0.151
+2018-05-08 10:39:24 [@lincham]
+[login] 3: Login falhou para lcamarotto no IP 192.168.0.3
+2018-05-08 10:42:56 [@lincham]
+[login] 3: Login falhou para  no IP 192.168.0.3
+2018-05-08 10:43:06 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.3
+2018-05-08 11:11:25 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.3
+2018-05-08 11:11:53 [@lincham]
+[login] 3: Login falhou para saiger no IP 192.168.0.3
+2018-05-08 11:12:00 [@lincham]
+[login] 3: tiger fez login no IP 192.168.0.3
+2018-05-08 11:13:16 [@lincham]
+[login] 3: osti fez login no IP 192.168.0.151
+2018-05-08 11:15:13 [@lincham]
+[login] 3: tiger fez login no IP 192.168.0.3
+2018-05-08 11:17:14 [@lincham]
+[login] 3: tiger fez login no IP 192.168.0.3
+2018-05-08 11:24:27 [@lincham]
+[login] 3: Login falhou para lcamarotto no IP 192.168.0.3
+2018-05-08 11:24:36 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.3
+2018-05-08 11:25:32 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.3
+2018-05-08 11:30:58 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.3
+2018-05-08 13:15:04 [@lincham]
+[login] 3: osti fez login no IP 192.168.0.151
+2018-05-10 07:42:00 [@lincham]
+[login] 3: osti fez login no IP 192.168.0.151
+2018-05-10 07:42:57 [@lincham]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-05-10 07:43:10 [@lincham]
+[login] 3: tiger fez login no IP 192.168.0.3
+2018-05-10 07:43:50 [@lincham]
+[login] 3: Login falhou para cfelix no IP 192.168.0.3
+2018-05-10 07:44:12 [@lincham]
+[login] 3: Login falhou para cfelix no IP 192.168.0.3
+2018-05-10 07:46:24 [@lincham]
+[login] 3: cveiga fez login no IP 192.168.0.3
+2018-05-14 10:22:07 [@lincham]
+[login] 3: osti fez login no IP 192.168.0.151
+2018-05-22 07:53:35 [@lincham]
+[login] 3: osti fez login no IP 192.168.0.151
+2018-05-28 13:25:10 [@lincham]
+[login] 3: osti fez login no IP 192.168.0.151
+2018-05-28 13:25:10 [@lincham]
+[login] 3: osti fez login no IP 192.168.0.151
+2018-06-19 00:47:59 [@osti-wspv]
+[login] 3: Login falhou para osti no IP 191.211.50.225
+2018-06-20 16:04:07 [@osti-wspv]
+[login] 3: Login falhou para paulo no IP 192.168.0.185
+2018-06-20 16:04:17 [@osti-wspv]
+[login] 3: Login falhou para admin no IP 192.168.0.185
+2018-06-20 16:04:25 [@osti-wspv]
+[login] 3: Login falhou para osti no IP 192.168.0.185
+2018-06-20 16:04:33 [@osti-wspv]
+[login] 3: osti fez login no IP 192.168.0.185
+2018-06-21 12:23:52 [@osti-wspv]
+[login] 3: osti fez login no IP 192.168.0.151
+2018-07-03 13:42:19 [@osti-wspv]
+[login] 3: osti fez login no IP 192.168.0.185
+2018-07-03 13:44:22 [@osti-wspv]
+[login] 3: pcmarostica fez login no IP 192.168.0.185
+2018-07-03 13:56:51 [@osti-wspv]
+[login] 3: pcmarostica fez login no IP 192.168.0.185
+2018-07-03 13:59:15 [@osti-wspv]
+[login] 3: pcmarostica fez login no IP 192.168.0.185
+2018-07-03 14:00:09 [@osti-wspv]
+[login] 3: mpires fez login no IP 192.168.0.185
+2018-07-03 14:00:47 [@osti-wspv]
+[login] 3: pcmarostica fez login no IP 192.168.0.185
+2018-07-03 14:11:39 [@osti-wspv]
+[login] 3: wlborges fez login no IP 192.168.0.185
+2018-07-03 14:12:19 [@osti-wspv]
+[login] 3: pcmarostica fez login no IP 192.168.0.185
+2018-07-03 14:12:56 [@osti-wspv]
+[login] 3: wlborges fez login no IP 192.168.0.185
+2018-07-03 14:17:37 [@osti-wspv]
+[login] 3: mpires fez login no IP 192.168.0.185
+2018-07-03 14:30:15 [@osti-wspv]
+[login] 3: pcmarostica fez login no IP 192.168.0.185
+2018-07-03 14:48:43 [@osti-wspv]
+[login] 3: lcamarotto fez login no IP 192.168.0.151
+2018-07-03 15:41:46 [@osti-wspv]
+[login] 3: Login falhou para lcamarotto no IP 192.168.0.230
+2018-07-03 15:41:57 [@osti-wspv]
+[login] 3: Login falhou para lcamarotto no IP 192.168.0.230
+2018-07-03 15:42:07 [@osti-wspv]
+[login] 3: Login falhou para lcamarotto no IP 192.168.0.230
+2018-07-03 15:42:14 [@osti-wspv]
+[login] 3: osti fez login no IP 192.168.0.230
+2018-07-03 17:40:46 [@osti-wspv]
+[login] 3: wlborges fez login no IP 192.168.0.185
+2018-07-03 17:41:19 [@osti-wspv]
+[login] 3: pcmarostica fez login no IP 192.168.0.185
+2018-07-03 17:42:19 [@osti-wspv]
+[login] 3: pcmarostica fez login no IP 192.168.0.185
+2018-07-03 17:42:56 [@osti-wspv]
+[login] 3: wlborges fez login no IP 192.168.0.185
+2018-07-04 11:20:09 [@osti-wspv]
+[login] 3: Login falhou para tst no IP 192.168.0.151
+2018-07-04 11:20:29 [@osti-wspv]
+[login] 3: Login falhou para tst no IP 192.168.0.151
+2018-07-04 11:20:41 [@osti-wspv]
+[login] 3: Login falhou para tst no IP 192.168.0.151
+2018-07-04 11:20:59 [@osti-wspv]
+[login] 3: osti fez login no IP 192.168.0.3
+2018-07-04 11:22:42 [@osti-wspv]
+[login] 3: tst fez login no IP 192.168.0.151
+2018-07-04 11:36:16 [@osti-wspv]
+[login] 3: tst fez login no IP 192.168.0.151
+2018-07-04 15:17:53 [@osti-wspv]
+[login] 3: wlborges fez login no IP 192.168.0.185
+2018-07-04 15:25:21 [@osti-wspv]
+[login] 3: osti fez login no IP 192.168.0.230
+2018-07-04 16:12:45 [@osti-wspv]
+[login] 3: Login falhou para mpires no IP 192.168.0.3
+2018-07-04 16:12:52 [@osti-wspv]
+[login] 3: mpires fez login no IP 192.168.0.3
+2018-07-06 14:08:40 [@osti-wspv]
+[login] 3: Pcmarostica fez login no IP 191.130.228.234
+2018-07-06 14:09:43 [@osti-wspv]
+[login] 3: Mpires fez login no IP 191.130.228.234
+2018-07-06 14:18:54 [@osti-wspv]
+[login] 3: pcmarostica fez login no IP 192.168.0.185
+2018-07-06 16:05:19 [@osti-wspv]
+[login] 3: pcmarostica fez login no IP 192.168.0.3
+2018-07-06 16:08:33 [@osti-wspv]
+[login] 3: mpires fez login no IP 192.168.0.3
+2018-07-06 16:17:00 [@osti-wspv]
+[login] 3: wlborges fez login no IP 192.168.0.3
+2018-07-10 14:26:16 [@osti-wspv]
+[login] 3: mpires fez login no IP 192.168.105.124
+2018-07-10 16:18:33 [@osti-wspv]
+[login] 3: pcmarostica fez login no IP 192.168.0.185
+2018-07-10 16:18:57 [@osti-wspv]
+[login] 3: Login falhou para paulo no IP 192.168.0.185
+2018-07-10 16:19:06 [@osti-wspv]
+[login] 3: Login falhou para pcmarostica no IP 192.168.0.185
+2018-07-10 16:19:14 [@osti-wspv]
+[login] 3: pcmarostica fez login no IP 192.168.0.185
+2018-07-10 16:20:00 [@osti-wspv]
+[login] 3: pcmarostica fez login no IP 192.168.0.185
+2018-07-10 16:33:25 [@osti-wspv]
+[login] 3: mpires fez login no IP 179.108.81.2
+2018-07-10 16:33:52 [@osti-wspv]
+[login] 3: Mpires fez login no IP 192.168.0.3
+2018-07-12 14:35:28 [@osti-wspv]
+[login] 3: pcmarostica fez login no IP 201.76.28.29
+2018-07-12 14:35:43 [@osti-wspv]
+[login] 3: mpires fez login no IP 201.76.28.29
+2018-07-19 18:11:34 [@osti-wspv]
+[login] 3: mpires fez login no IP 189.40.88.200
+2018-08-08 19:25:31 [@osti-wspv]
+[login] 3: Login falhou para paulo no IP 191.131.149.176
+2018-08-08 19:25:38 [@osti-wspv]
+[login] 3: Login falhou para 63496 no IP 191.131.149.176
+2018-08-08 19:26:19 [@osti-wspv]
+[login] 3: pcmarostica fez login no IP 191.131.149.176
+2018-08-08 19:26:40 [96@osti-wspv]
+[login] 3: pcmarostica fez login no IP 191.131.149.176
+2018-08-08 19:27:13 [96@osti-wspv]
+[login] 3: Login falhou para wilton no IP 191.131.149.176
+2018-08-08 19:27:25 [96@osti-wspv]
+[login] 3: wlborges fez login no IP 191.131.149.176
+2018-08-10 00:25:18 [@osti-wspv]
+[login] 3: wlborges fez login no IP 177.195.14.146
