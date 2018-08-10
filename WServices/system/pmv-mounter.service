@@ -1,0 +1,13 @@
+[Unit]
+Description=Opt Mounter
+After=network.target
+
+[Service]
+Type=simple
+User=root
+ExecStart=/usr/local/bin/pmv/mounter.sh
+Restart=on-abort
+
+
+[Install]
+WantedBy=multi-user.target

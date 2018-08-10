@@ -1,0 +1,14 @@
+[Unit]
+Description=WSPV Service
+After=network.target
+
+[Service]
+Type=forking
+User=root
+WorkingDirectory=/opt/PMV-dev/WS/server
+ExecStart=/opt/PMV-dev/WServices/bin/WSPV1.sh start
+Restart=on-abort
+
+
+[Install]
+WantedBy=multi-user.target
