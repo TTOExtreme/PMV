@@ -1,0 +1,1 @@
+loadMainScripter('bin/indb/builder.js');
