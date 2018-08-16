@@ -4,7 +4,7 @@ if [ "$1" != "" ]; then
 	cd "$1"
 	while [[ true -eq true ]]; do
 		git remote update > /dev/null
-		LOCAL=$(git rev-parse @)
+		LOCAL=$(git rev-parse develop)
 		REMOTE=$(git rev-parse origin/develop)
 		if [[ $LOCAL = $REMOTE ]]; then
 			echo "0"
