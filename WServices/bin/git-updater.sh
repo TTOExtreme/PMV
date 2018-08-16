@@ -5,7 +5,7 @@ start)
   git/git-updater_master.sh /opt/PMV/ > git/log/log-master.log &
   echo $!>/var/run/git-up-master.pid
 
-  git/git-updater_developer.sh /opt/PMV-dev/ > git/log/log-developer.log &
+  git/git-updater_develop.sh /opt/PMV-dev/ > git/log/log-developer.log &
   echo $!>/var/run/git-up-developer.pid
 
     ;;
