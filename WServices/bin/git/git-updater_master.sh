@@ -14,7 +14,8 @@ if [ "$1" != "" ]; then
 			echo "0"
 		else
 	    	echo "Changes"
-			git pull --pull --force origin master
+			git reset --hard
+			git pull --force origin master
 			systemctl restart pmv-wspv
 		fi
 		sleep 1;
