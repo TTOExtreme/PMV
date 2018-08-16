@@ -1,6 +1,6 @@
 [Unit]
 Description=WSPV Service
-After=network.target
+After=pmv-mounter.service
 
 [Service]
 Type=forking
