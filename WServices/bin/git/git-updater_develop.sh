@@ -11,7 +11,7 @@ if [ "$1" != "" ]; then
 		else
 	    	echo "Changes"
 			git reset --hard
-			git --pull --force origin develop
+			git pull --force origin develop
 			systemctl restart pmv-wspv1
 		fi
 		sleep 1;
