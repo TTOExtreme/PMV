@@ -1,12 +1,12 @@
 [Unit]
-Description=WSPV Service
+Description=Update Server Service
 After=pmv-mounter.service
 
 [Service]
 Type=forking
 User=root
 WorkingDirectory=/opt/PMV/WServices/bin/
-ExecStart=/opt/PMV/WServices/bin/WSPV.sh start
+ExecStart=/opt/PMV/WServices/bin/git-updater.sh start
 Restart=on-abort
 
 

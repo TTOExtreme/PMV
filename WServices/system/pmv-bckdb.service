@@ -1,6 +1,6 @@
 [Unit]
 Description=Database Backup Service
-After=network.target
+After=pmv-mounter.service
 
 [Service]
 Type=forking
