@@ -6,13 +6,15 @@ if [ "$1" != "" ]; then
 		git remote update > /dev/null
 		LOCAL=$(git rev-parse master)
 		REMOTE=$(git rev-parse origin/master)
+		echo "REMOTE"
 		echo $REMOTE
+		echo "LOCAL"
 		echo $LOCAL
 		if [[ $LOCAL = $REMOTE ]]; then
 			echo "0"
 		else
 	    	echo "Changes"
-			git pull --rebase --force origin master
+			git pull --pull --force origin master
 			systemctl restart pmv-wspv
 		fi
 		sleep 1;
