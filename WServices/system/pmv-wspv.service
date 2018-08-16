@@ -5,7 +5,7 @@ After=pmv-mounter.service
 [Service]
 Type=forking
 User=root
-WorkingDirectory=/opt/PMV/WServices/bin/
+WorkingDirectory=/opt/PMV/WS/server/
 ExecStart=/opt/PMV/WServices/bin/WSPV.sh start
 Restart=on-abort
 
