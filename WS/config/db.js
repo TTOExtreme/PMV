@@ -1,5 +1,5 @@
 var dbnames = {
-    database_name: 'PMV_WSPV_B',
+    database_name: 'PMV_WSPV_A',
 
     //base tables
     log: '_log',
