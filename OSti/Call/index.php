@@ -62,25 +62,25 @@
 					<tr><td rowspan='2' style='width:50px; font-size:28pt;background-color:".$GLOBALS['col2'].";'><center><b>{$row['id']}</b></td>";
 				
 					echo "
-						<td class='td1' style='background-color:#e6e6fa;'><center>{$row['date_creation']}</td>
-						<td class='td1' style='background-color:#e6e6fa;'><center>".GetTech($row['id'])."</td>
-						<td class='td1' style='background-color:#e6e6fa;'><center>".GetUser($row['users_id_recipient'])."</td>
-						<td class='td1 class_".$row['priority']."'><center><b>".GetPriority($row['priority'])."</td>
-						<td class='td1' style='background-color:#e6e6fa;'><center>".GetLocation(GetUserLoc($row['users_id_recipient']))."</td></tr>
+						<td class='td1' style='width:15vw;background-color:#e6e6fa;'><center>{$row['date_creation']}</td>
+						<td class='td1' style='width:15vw;background-color:#e6e6fa;'><center>".GetTech($row['id'])."</td>
+						<td class='td1' style='width:15vw;background-color:#e6e6fa;'><center>".GetUser($row['users_id_recipient'])."</td>
+						<td class='td1  style='width:15vw;'class_".$row['priority']."'><center><b>".GetPriority($row['priority'])."</td>
+						<td class='td1' style='width:15vw;background-color:#e6e6fa;'><center>".GetLocation(GetUserLoc($row['users_id_recipient']))."</td></tr>
 						<tr><td class='td1' colspan='5' style='background-color:".$GLOBALS['col2']."; color:#e6e6fa'><b style='margin-left:10px; color:#fff'>Problema:</b> {$row['content']}</td></tr>
 						</table>";
 
 				}else{
 					$GLOBALS['CC'] = true;
 					echo "<table style='width:100%; background-color:".$GLOBALS['col2'].";'>
-					<tr><td class='class_".$row['priority']."' rowspan='2' style='width:50px; font-size:28pt;background-color:".$GLOBALS['col1'].";'><center><b>{$row['id']}</b></td>";
+					<tr><td rowspan='2' style='width:50px; font-size:28pt;background-color:".$GLOBALS['col1'].";'><center><b>{$row['id']}</b></td>";
 				
 					echo "
-						<td class='td2' style='background-color:#e6e6fa;'><center>{$row['date_creation']}</td>
-						<td class='td2' style='background-color:#e6e6fa;'><center>".GetTech($row['id'])."</td>
-						<td class='td2' style='background-color:#e6e6fa;'><center>".GetUser($row['users_id_recipient'])."</td>
-						<td class='td2 class_".$row['priority']."'><center><b>".GetPriority($row['priority'])."</td>
-						<td class='td2' style='background-color:#e6e6fa;'><center>".GetLocation(GetUserLoc($row['users_id_recipient']))."</td></tr>
+						<td class='td2' style='width:15vw;background-color:#e6e6fa;'><center>{$row['date_creation']}</td>
+						<td class='td2' style='width:15vw;background-color:#e6e6fa;'><center>".GetTech($row['id'])."</td>
+						<td class='td2' style='width:15vw;background-color:#e6e6fa;'><center>".GetUser($row['users_id_recipient'])."</td>
+						<td class='td2  style='width:15vw;' class_".$row['priority']."'><center><b>".GetPriority($row['priority'])."</td>
+						<td class='td2' style='width:15vw;background-color:#e6e6fa;'><center>".GetLocation(GetUserLoc($row['users_id_recipient']))."</td></tr>
 						<tr><td class='td2' colspan='5' style='background-color:".$GLOBALS['col1']."; color:#fff'><b style='margin-left:10px;color:#fff''>Problema:</b> {$row['content']}</td></tr>
 						</table>";
 				}
