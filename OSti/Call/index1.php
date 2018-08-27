@@ -21,12 +21,13 @@
 	$GLOBALS['CC'] = true;
 
 	include '_Connect.php';
-	echo "<html><head><meta http-equiv='refresh' content='5;URL=http://192.168.0.23/OSti/Call/index1.php'></head><body onload='launchFullScreen(document.getElementById(\"tb\"));' id='tb'>";
+	echo "<html><head><meta http-equiv='refresh' content='5;URL=http://192.168.0.23/OSti/Call/index.php'></head><body onload='launchFullScreen(document.getElementById(\"tb\"));' id='tb'>";
 	LoadScript();
 	LoadCss();
 	Update();
 	header("content-type: text/html; charset=UTF-8");  
 
+	$GLOBALS['maxint'] = 8;
 
 	function Update(){
 		$DB = Connect();
@@ -54,7 +55,8 @@
 		$DB->query("set character_set_results='utf8';");
 		$result = $DB->query($query);
 		if ($result->num_rows > 0) {
-			$i = 2;
+			$i = 4;
+			$row = $result->fetch_assoc();
 			while($row = $result->fetch_assoc()) {
 				//echo "<script>console.log( 'Debug Objects: " . $row['content'] . "' );</script>";
 				if($GLOBALS['CC']){
@@ -86,7 +88,8 @@
 						</table>";
 				}
 				$i--;
-				if($i==0){break;}
+				$GLOBALS['maxint'] = $GLOBALS['maxint'] -1;
+				if($i==0 || $GLOBALS['maxint'] == 0){break;}
 			}
 		} 
 	}
@@ -97,6 +100,7 @@
 		$result = $DB->query($query);
 		if ($result->num_rows > 0) {
 			$i = 1;
+			$row = $result->fetch_assoc();
 			while($row = $result->fetch_assoc()) {
 				if($GLOBALS['CC']){
 					$GLOBALS['CC'] = false;
@@ -174,17 +178,19 @@
 		<style type='text/css'>
 			body{
 				font-family:calibri;
+				max-heigth:100%;
+				white-space: nowrap;
 				overflow: hidden;
+				text-overflow: ellipsis;
 			}
 			tr{
 				margin: 0px;
 				padding:0px;
 				border: 0px;
-				max-height:50px;
 			}
 			td{
 				width:11vw;
-				max-height:25px;
+				height:35px;
 				margin: 2px;
 				white-space: nowrap;
 				overflow: hidden;
