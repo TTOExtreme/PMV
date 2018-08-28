@@ -1189,3 +1189,36 @@ Test
   inc/html.class.php:1198                            
   inc/html.class.php:1769                            Html::includeHeader()
   front/login.php:83                                 Html::nullHeader()
+2018-08-27 11:36:23 [2@osti-wspv]
+  *** PHP Warning(2): ldap_start_tls(): Unable to start TLS: Server is unavailable
+  Backtrace :
+  :                                                  
+  inc/authldap.class.php:2502                        ldap_start_tls()
+  inc/authldap.class.php:1397                        AuthLDAP::connectToServer()
+  front/authldap.form.php:74                         AuthLDAP::testLDAPConnection()
+2018-08-27 16:03:37 [2@osti-wspv]
+  *** PHP Warning(2): ldap_bind(): Unable to bind to server: Invalid credentials
+  Backtrace :
+  :                                                  
+  inc/authldap.class.php:2508                        ldap_bind()
+  inc/authldap.class.php:1397                        AuthLDAP::connectToServer()
+  front/authldap.form.php:74                         AuthLDAP::testLDAPConnection()
+2018-08-27 16:09:10 [2@osti-wspv]
+  *** PHP Warning(2): ldap_bind(): Unable to bind to server: Invalid credentials
+  Backtrace :
+  :                                                  
+  inc/authldap.class.php:2508                        ldap_bind()
+  inc/authldap.class.php:1397                        AuthLDAP::connectToServer()
+  front/authldap.form.php:74                         AuthLDAP::testLDAPConnection()
+2018-08-28 13:16:23 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
+2018-08-28 13:16:35 [@osti-wspv]
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc/html.class.php:1198                            
+  inc/html.class.php:1769                            Html::includeHeader()
+  front/login.php:83                                 Html::nullHeader()
