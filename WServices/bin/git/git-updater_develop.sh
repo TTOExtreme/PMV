@@ -10,6 +10,7 @@ if [ "$1" != "" ]; then
 			echo "0"
 		else
 	    	echo "Changes"
+			git clean -i
 			git reset --hard
 			git pull --force origin develop
 			systemctl restart pmv-wspv1
