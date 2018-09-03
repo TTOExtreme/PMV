@@ -1,5 +1,5 @@
 //preload the .js necessary files
-var root = "http://" + document.location.host + "/WSPV/js/";
+var root = "http://" + document.location.host + "/WSP1/js/";
 var libs = [
     root + "bin/utils/index.js",
     root + "bin/extdb/index.js",
