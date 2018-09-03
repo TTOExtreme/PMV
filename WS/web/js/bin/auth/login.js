@@ -23,9 +23,9 @@ function login() {
             s.style.backgroundColor = "#169e7e";
             s.disabled = false;
         }, 2000);
-        login_check(function() {
+        login_check(function () {
             parsepost(cfg.incon + '/screens/main.html');
-        }, function() {
+        }, function () {
             setTimeout(() => {
                 var s = document.getElementById('logbot');
                 s.style.backgroundColor = "#169e7e";
@@ -41,7 +41,7 @@ function login_check(callback, err) {
         return;
     }
     if (indb.login.user != 0 && indb.login.pass != 0) {
-        p2p_send({ status: "ping" }, cfg.dbcon + '/login', function(result) {
+        p2p_send({ status: "ping" }, cfg.dbcon + '/login', function (result) {
             if (result != null) {
                 if (result.status == "pong") {
                     indb.logged = true;
@@ -56,14 +56,15 @@ function login_check(callback, err) {
                 if (err != null) { err(); }
                 pops("Usuário não existe");
             }
-        }, function() {
+        }, function () {
             if (err != null) { err(); }
         })
     } else {
-        if (err != null) { err(); }
         if (indb.logged) {
             pops("Falha ao reconectar");
         } else {
+            //reset to main screen
+            parsepost(cfg.incon);
             if (err != null) { err(); }
         }
         //pops("Falha ao reconectar");
