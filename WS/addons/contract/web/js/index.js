@@ -16,74 +16,69 @@ function dash_ctrct() {
                     return;
                 });
             } else {
-                if (indb.vis_users.length < 1) {
-                    ext_reload_users(() => {
-                        dash_ctrct()
-                        return;
-                    });
-                } else {
-                    getlist(() => {
 
-                        var ptable = indb.addons['ctrct'];
+                getlist(() => {
 
-                        var gpsl = [];
-                        var gpsn = [];
-                        var rnwl = [];
-                        var incl = [];
+                    var ptable = indb.addons['ctrct'];
 
-                        var pral = ["Menos de 30 Dias", "Menos de 60 Dias", "Menos de 90 Dias", "Menos de 120 Dias", "Menos de 150 Dias", "Ativos", "Vencidos"]
-                        var pran = [0, 0, 0, 0, 0, 0, 0];
+                    var gpsl = [];
+                    var gpsn = [];
+                    var rnwl = [];
+                    var incl = [];
 
-                        if (ptable[0] != undefined) {
-                            for (i = 0; i < ptable.length; i++) {
-                                var v = ptable[i];
-                                // per group
-                                var grpn = get_grp_usr(v)
-                                if (v.usr_id == indb.login.id) {
-                                    document.getElementById('deptoname').innerHTML = "<pre><b style='font-size:20pt'>" + grpn + "</b></pre>"
-                                }
-                                var id = gpsl.findIndex(x => x === grpn);
-                                if (id > -1) {
-                                    gpsn[gpsl.findIndex(x => x === grpn)] += 1;
-                                } else {
-                                    gpsl.push(grpn);
-                                    gpsn.push(1);
-                                }
-                                //per Venc
-                                var grpn = getdays(v)
-                                var t4 = getdays(v);
-                                if (t4 < 0) { pran[6]++; } else {
-                                    if (t4 <= 30) { pran[0]++; } else {
-                                        if (t4 <= 60) { pran[1]++; } else {
-                                            if (t4 <= 90) { pran[2]++; } else {
-                                                if (t4 <= 120) { pran[3]++; } else {
-                                                    if (t4 <= 150) { pran[4]++; } else {
-                                                        if (t4 > 150) { pran[5]++; }
-                                                    }
+                    var pral = ["Menos de 30 Dias", "Menos de 60 Dias", "Menos de 90 Dias", "Menos de 120 Dias", "Menos de 150 Dias", "Ativos", "Vencidos"]
+                    var pran = [0, 0, 0, 0, 0, 0, 0];
+
+                    if (ptable[0] != undefined) {
+                        for (i = 0; i < ptable.length; i++) {
+                            var v = ptable[i];
+                            // per group
+                            var grpn = get_grp_usr(v);
+                            if (v.usr_id == indb.login.id) {
+                                document.getElementById('deptoname').innerHTML = "<pre><b style='font-size:20pt'>" + grpn + "</b></pre>"
+                            }
+                            var id = gpsl.findIndex(x => x === grpn);
+                            if (id > -1) {
+                                gpsn[gpsl.findIndex(x => x === grpn)] += 1;
+                            } else {
+                                gpsl.push(grpn);
+                                gpsn.push(1);
+                            }
+                            //per Venc
+                            var grpn = getdays(v)
+                            var t4 = getdays(v);
+                            if (t4 < 0) { pran[6]++; } else {
+                                if (t4 <= 30) { pran[0]++; } else {
+                                    if (t4 <= 60) { pran[1]++; } else {
+                                        if (t4 <= 90) { pran[2]++; } else {
+                                            if (t4 <= 120) { pran[3]++; } else {
+                                                if (t4 <= 150) { pran[4]++; } else {
+                                                    if (t4 > 150) { pran[5]++; }
                                                 }
                                             }
                                         }
                                     }
                                 }
-                                //per renewable
-                                if (renewable(v)) {
-                                    rnwl.push(v);
-                                }
-                                //per incos/alert
-                                if (isinconsist(v) && getdays(v) > 0) {
-                                    incl.push(v);
-                                }
-
                             }
-                        }
-                        chartDPTO("QTD", gpsl, gpsn, "");
-                        chartVenc("PRAZ", pral, pran, "");
-                        lstRenewable(incl, "INCO")
-                        lstRenewable(rnwl, "RENEW")
-                    });
+                            //per renewable
+                            if (renewable(v)) {
+                                rnwl.push(v);
+                            }
+                            //per incos/alert
+                            if (isinconsist(v) && getdays(v) > 0) {
+                                incl.push(v);
+                            }
 
-                }
+                        }
+                    }
+                    chartDPTO("QTD", gpsl, gpsn, "");
+                    chartVenc("PRAZ", pral, pran, "");
+                    lstRenewable(incl, "INCO")
+                    lstRenewable(rnwl, "RENEW")
+                });
+
             }
+
         });
     });
 }
@@ -261,15 +256,10 @@ function getlist(callback) {
 }
 
 function get_grp_usr(v) {
-    if (v.grp_id == null) {
-        if (v.usr_id != null) {
-            var grpid = indb.vis_users[indb.vis_users.findIndex(x => x.id_usr === v.usr_id)].grp_id;
-            grpid = get_grp_name_id(grpid);
-            return grpid;
-        } else {
-            return "-"
-        }
+    if (v.username[0] != undefined) {
+        var grpid = get_grp_name_id(v.username[0].grp_id);
+        return grpid;
     } else {
-        return get_grp_name_id(v.grp_id);
+        return "-!-"
     }
 }
