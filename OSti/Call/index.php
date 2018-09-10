@@ -21,7 +21,7 @@
 	$GLOBALS['CC'] = true;
 
 	include '_Connect.php';
-	echo "<html><head><meta http-equiv='refresh' content='5;URL=http://192.168.0.23/OSti/Call/index1.php'></head><body onload='launchFullScreen(document.getElementById(\"tb\"));' id='tb'>";
+	//echo "<html><head><meta http-equiv='refresh' content='5;URL=http://192.168.0.23/OSti/Call/index1.php'></head><body onload='launchFullScreen(document.getElementById(\"tb\"));' id='tb'>";
 	LoadScript();
 	LoadCss();
 	Update();
