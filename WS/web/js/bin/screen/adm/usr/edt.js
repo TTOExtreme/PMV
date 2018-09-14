@@ -169,10 +169,10 @@ function edt(name) {
     var mb = document.getElementById("msg_box");
     mb.contentDocument.write("<link rel = \"stylesheet\" type=\"text/css\" href=\"../../../css/main.css\">" +
         "<center><table class='z20'>" +
-        "<tr><td style = 'float:right;'>Usuário:</td><td><input id='user' type='text' value='" + usr.user + "'></td></tr>" +
-        "<tr><td style = 'float:right;'>Nome:</td><td><input id='name' type='text' value='" + usr.usr_name + "'></td></tr>" +
-        "<tr><td style = 'float:right;'>Matricula:</td><td><input id='matric' type='text' value='" + usr.matric + "'></td></tr>" +
-        "<tr><td style = 'float:right;'>CPF:</td><td><input id='cpf' type='text' value='" + usr.cpf + "'></td></tr>" +
+        "<tr><td><center>Usuário:</td><td><input id='user' type='text' value='" + usr.user + "'></td></tr>" +
+        "<tr><td><center>Nome:</td><td><input id='name' type='text' value='" + usr.usr_name + "'></td></tr>" +
+        "<tr><td><center>Matricula:</td><td><input id='matric' type='text' value='" + usr.matric + "'></td></tr>" +
+        "<tr><td><center>CPF:</td><td><input id='cpf' type='text' value='" + usr.cpf + "'></td></tr>" +
         "<tr><td><center><button onclick='parent.reset();'>Voltar</button>" +
         "<button onclick= parent.edtdoc(document,'" + name + "');>Editar</button></center></td></tr></table><center>" +
         "");
