@@ -98,13 +98,18 @@
 		if ($result->num_rows > 0) {
 			$i = 1;
 			while($row = $result->fetch_assoc()) {
-				if($GLOBALS['CC']){
-					$GLOBALS['CC'] = false;
-					echo "<table style='width:100%; background-color:".$GLOBALS['col1'].";'>";
-				}else{
-					$GLOBALS['CC'] = true;
-					echo "<table style='width:100%; background-color:".$GLOBALS['col2'].";'>";
-				}
+				echo "<table style='width:100%; background-color:".$GLOBALS['col2'].";'>
+					<tr><td rowspan='2' style='width:80px; font-size:28pt;background-color:".$GLOBALS['col1'].";'><center><b>{$row['id']}</b></td>";
+				
+					echo "
+						<td class='td2' style='width:220px;max-width:220px;background-color:#e6e6fa;'><center>{$row['date_creation']}</td>
+						<td class='td2' style='width:220px;max-width:220px;background-color:#e6e6fa;'><center>".GetTech($row['id'])."</td>
+						<td class='td2' style='width:220px;max-width:220px;background-color:#e6e6fa;'><center>".GetUser($row['users_id_recipient'])."</td>
+						<td class='td2 class_".$row['priority']."'style='width:220px;max-width:220px;'><center><b>".GetPriority($row['priority'])."</td>
+						<td class='td2' style='width:220px;max-width:220px;background-color:#e6e6fa;'><center>".GetLocation(GetUserLoc($row['users_id_recipient']))."</td></tr>
+						<tr><td class='td2' colspan='5' style='background-color:".$GLOBALS['col1']."; color:#fff'><b style='margin-left:10px;color:#fff''>Problema:</b> {$row['content']}</td></tr>
+						</table>";
+				/*
 				echo "
 					<tr><td rowspan='2' style='width:50px;'><center><b>{$row['id']}</b></td>
 					<td>{$row['date_creation']}</td>
@@ -114,6 +119,7 @@
 					<td>".GetLocation(GetUserLoc($row['users_id_recipient']))."</td></tr>
 					<tr><td colspan='5' style='padding-left:10px;'>Problema: {$row['content']}</td></tr>
 					</table>";
+					//*/
 				$i--;
 				if($i==0){break;}
 			}
