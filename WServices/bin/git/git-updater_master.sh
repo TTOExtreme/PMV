@@ -15,7 +15,7 @@ if [ "$1" != "" ]; then
 			git pull --force origin master
 			systemctl restart pmv-wspv
 		fi
-		sleep 1;
+		sleep 10;
 	done
 else
 	echo "Please provide a local to mantain updated to";
