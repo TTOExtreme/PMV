@@ -191,6 +191,7 @@
 			td{
 				width:11vw;
 				max-height:25px;
+				max-width:100px;
 				margin: 2px;
 				white-space: nowrap;
 				overflow: hidden;
@@ -201,6 +202,7 @@
 				padding:2px;
 				margin-bottom:5px;
 				font-size: 21pt;
+				max-width:100vw;
 			}
 
 			.td0{
@@ -208,6 +210,10 @@
 			}
 			.td1{
 				border: solid 2px ". $GLOBALS['col1']."; 
+				white-space: nowrap;
+				overflow: hidden;
+				text-overflow: ellipsis;
+				max-width:100px;
 			}
 			.td2{
 				border: solid 2px ".$GLOBALS['col2']."; 
