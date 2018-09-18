@@ -96,7 +96,7 @@
 
 	function pushLastFinish(){
 		$DB = Connect();
-		$query = "SELECT * FROM " . $GLOBALS['dbname'] . ".glpi_tickets WHERE status=6 ORDER BY id DESC;";
+		$query = "SELECT * FROM " . $GLOBALS['dbname'] . ".glpi_tickets WHERE status=6 ORDER BY closedate DESC;";
 		$result = $DB->query($query);
 		if ($result->num_rows > 0) {
 			$i = 1;
