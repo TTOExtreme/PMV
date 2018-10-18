@@ -1,0 +1,77 @@
+<html>
+
+<head>
+    <script type="text/javascript" src="../../js/libs/jquery.min.js"></script>
+    <script type="text/javascript" src="../../js/mainscripter.js"></script>
+    <link rel="stylesheet" type="text/css" href="../css/main.css">
+</head>
+
+<body onload="wait_Load(()=>{loadScript('/bin/screen/tabs/contato.js')})">
+    <table class="mf_table">
+        <tr id="mf_table_header" class="mf_table_header"></tr>
+        <tr id="mf_table_list" class="mf_table_list">
+            <td>
+                <center>
+                    <table>
+                        <tr>
+                            <td>
+                                <center><pre style="font-size: 14">Qualquer dúvida relacionada ao registro de ponto, ou sobre o sistema de holerite, 
+favor enviar mensagem pelo formulário abaixo: </pre></center>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div>
+                                    <center>
+                                        <table>
+                                            <tr>
+                                                <td style='float:right;'>Área: </td>
+                                                <td>
+                                                    <select id="area">
+                                                        <option>Holerite</option>
+                                                        <option>Esp. Frequencia</option>
+                                                    </select>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style='float:right;'>Nome: </td>
+                                                <td><input id='name' type='text'></td>
+                                            </tr>
+                                            <tr>
+                                                <td style='float:right;'>Matrícula: </td>
+                                                <td><input id='matric' type='text'></td>
+                                            </tr>
+                                            <tr>
+                                                <td style='float:right;'>CPF: </td>
+                                                <td><input id='cpf' type='text'></td>
+                                            </tr>
+                                            <tr>
+                                                <td style='float:right;'>Período relacionado: </td>
+                                                <td><input id='per' type='text'></td>
+                                            </tr>
+                                            <tr>
+                                                <td style='float:right;'>Mensagem: </td>
+                                                <td><textarea style='resize: none;' id='mess' type='text'></textarea></td>
+                                            </tr>
+                                            <tr>
+                                                <td></td>
+                                                <td>
+                                                    <button style='float:left;' onclick=form1(document);>Enviar</button>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <center>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                    </center>
+            </td>
+        </tr>
+        <tr id="mf_table_controls" class="mf_table_controls">
+        </tr>
+    </table>
+    <iframe id="msg_box" class="z-10">
+</body>
+
+</html>

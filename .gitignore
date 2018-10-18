@@ -1,0 +1,6 @@
+
+SCTV/node_modules/
+WS/node_modules/
+
+*.log
+*.sql
