@@ -1,0 +1,10 @@
+
+SCTV/node_modules/
+SCTV/app/
+SCTV/config/
+SCTV/server/
+SCTV/web/
+SCTV/*.*
+
+*.log
+*.sql

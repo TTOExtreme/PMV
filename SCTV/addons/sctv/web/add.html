@@ -1,0 +1,98 @@
+<html>
+
+<head>
+    <script type="text/javascript" src="../../js/libs/jquery.min.js"></script>
+    <script type="text/javascript" src="../../js/mainscripter.js"></script>
+    <link rel="stylesheet" type="text/css" href="../../screens/css/main.css">
+</head>
+
+<body onload="wait_Load(() => {loadAddonScript('/contract/web/js/add.js')})">
+    <table class="mf_table">
+        <tr id="mf_table_header" class="mf_table_header"></tr>
+        <tr id="mf_table_list" class="mf_table_list">
+            <td>
+                <form id='frm' target="mf">
+                    <table>
+                        <tr>
+                            <td style="float: right;">Nº: </td>
+                            <td>
+                                <input id="num" type="text">
+                                <a id='ren' style="display: none;">-1</a>
+                            </td>
+                            <td style="float: right;">Nome: </td>
+                            <td>
+                                <input id="name" type="text">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="float: right;">Descrição: </td>
+                            <td colspan="3">
+                                <textarea style="width: 500px;height: 200px;" id="desc" type="text"></textarea>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="float: right;">Valor: </td>
+                            <td>
+                                <input id="value" type="text">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="float: right;">Data de Inicio: </td>
+                            <td>
+                                <input id="ini_data" type="date">
+                            </td>
+                            <td style="float: right;">Renovavel: </td>
+                            <td>
+                                <input type="checkbox" id="renewable" onchange="ren();">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="float: right;">Periodo: </td>
+                            <td>
+                                <select id="periodo">
+                                    <option value="12">12 Meses</option>
+                                    <option value="24">24 Meses</option>
+                                    <option value="36">36 Meses</option>
+                                    <option value="48">48 Meses</option>
+                                    <option value="60">60 Meses</option>
+                                </select>
+                            </td>
+                            <td style="float: right;">Forma de Pagamento: </td>
+                            <td>
+                                <select id="npays">
+                                    <option value="1">Mensal</option>
+                                    <option value="2">Anual</option>
+                                    <option value="3">À Vista</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="float: right;">Arquivo: </td>
+                            <td>
+                                <input id="file" type="file" name="file" multiple="multiple">
+                            </td>
+                            <td style="display: none">
+                                <input id="fname" type="text" name="fname">
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+            </td>
+        </tr>
+        <tr id="mf_table_controls" class="mf_table_controls">
+            <td>
+                <table>
+                    <tr>
+                        <td>
+                            <input type="button" value="Adicionar" onclick="crt_ctrct();">
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <iframe style="display: none" name="mf" id="mf"></iframe>
+    <iframe id="msg_box" class="z-10 001"></iframe>
+</body>
+
+</html>

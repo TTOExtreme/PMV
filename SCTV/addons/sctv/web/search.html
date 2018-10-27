@@ -1,0 +1,35 @@
+<html>
+
+<head>
+    <script type="text/javascript" src="../../js/libs/jquery.min.js"></script>
+    <script type="text/javascript" src="../../js/mainscripter.js"></script>
+    <link rel="stylesheet" type="text/css" href="../../screens/css/main.css">
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+</head>
+
+<body onload="wait_Load(()=>{loadAddonScript('/contract/web/js/_utils.js'); loadAddonScript('/contract/web/js/lst.js');})">
+    <table class="mf_table">
+        <tr id="mf_table_header" class="mf_table_header">
+            <td>
+                <center>
+                    <table id="table_header" class="table_header">
+                    </table>
+                </center>
+            </td>
+        </tr>
+        <tr id="mf_table_list" class="mf_table_list">
+            <td>
+                <center>
+                    <table id="list_tb" class="list_tb">
+                    </table>
+                </center>
+            </td>
+        </tr>
+        <tr id="mf_table_controls" class="mf_table_controls">
+        </tr>
+    </table>
+    <iframe id="msg_box" class="z-10 001"></iframe>
+    <iframe style="display: none" name="mf" id="mf"></iframe>
+</body>
+
+</html>
